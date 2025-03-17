@@ -1,78 +1,313 @@
 # Reading Material
 
-Dynamic PRC1–CBX8 stabilizes a porous structure of chromatin condensates <br>
+Foundation Course III Tutoring: The Basics
 
-Abstract
-The compaction of chromatin is a prevalent paradigm in gene repression. Chromatin compaction is commonly thought to repress transcription by restricting chromatin accessibility. However, the spatial organization and dynamics of chromatin compacted by gene-repressing factors are unknown. Here, using cryo-electron tomography, we solved the three-dimensional structure of chromatin condensed by the polycomb repressive complex 1 (PRC1) in a complex with CBX8. PRC1-condensed chromatin is porous and stabilized through multivalent dynamic interactions of PRC1 with chromatin. Mechanistically, positively charged residues on the internally disordered regions of CBX8 mask negative charges on the DNA to stabilize the condensed state of chromatin. Within condensates, PRC1 remains dynamic while maintaining a static chromatin structure. In differentiated mouse embryonic stem cells, CBX8-bound chromatin remains accessible. These findings challenge the idea of rigidly compacted polycomb domains and instead provide a mechanistic framework for dynamic and accessible PRC1–chromatin condensates.
+What is Foundation Course III: Function and Dysfunction?
+
+Foundation course III is an interdisciplinary course that focuses on physiology/pathophysiology, clinical pathology, pharmacology and anatomic pathology. 
+
+The course is divided into two courses. Foundation Course IIIa occurs in the spring of the student’s first year. Foundation Course IIIb occurs in the fall of the student’s second year. Though they are separate courses, the content is taught in an integrated way such that concepts presented in Foundation Course IIIa continue to develop through Foundation Course IIIb.
+
+What foundational knowledge will students bring with them into Foundation Course III?
+
+Students will have already successfully completed:
+Foundation Course I: The Animal Body (gross anatomy, histology and imaging)
+Foundation Course II: Cell Biology and Genetics
+General Pathology
+Neuroanatomy
+Elective anatomy course (carnivore, comparative, ruminant, equine)
+
+I understand Foundation Course III utilizes problem-based learning. What is included in a case?
+
+Student Case
+This is the case the students will work through during a week. It includes case dialogue, clinical pathology data, and digital resources such as imaging, histology and anatomic pathology specimens when appropriate.
+The student case also includes tasks. These tasks have been developed to help support objectives that are harder to naturally squeeze from the case, to help students start integrating material from one case to another and they can help us articulate our expectations. This is important: these tasks can be made into learning objectives, but they should not be the ONLY learning objectives your group develops for a day. 
+
+Tutor Guide
+This is a document that supports the tutor case and, this is important, is confidential and for the tutor’s eyes only. This document provides information for tutors on pacing, content, learning objectives, course expectations, and recommended resources for the students to use. All of our tutors come from different backgrounds and training so the guides are a resource built to support all ranges of expertise. Sometimes material presented in these documents goes into slightly more detail that we expect of the students but feel it benefits you to know to help build your understanding. We will comment on this either in the tutor guide or during tutor preparation meetings to help you navigate how deep to push your group in a subject area.
+Are there any other modes of instruction that support student learning during Foundation Course III?
+
+Absolutely! Each week is comprised of a couple chosen lecture topics. We choose our lecture topics based on subject matter that may be more challenging to understand or difficult to find. We also present lectures that strive to encourage students to take what they are learning in tutor group and apply it to a clinical situation. 
+
+There is also a lab or two a week. Additionally, there are many online modules that have been created to support a flip-the-classroom style of instruction. To further help students develop their ability to apply basic science concepts to clinical cases, Vet Cases were developed. These are released weekly and coincide with the material the students are learning. They are old exams that were converted into modules the students can work through on their own time. They support content application and are another nice way for us to communicate expectations and the dreaded question “how deep do I need to go into this topic?”. The Vet Cases also provide a safety net for us to make sure students have some exposure to all major learning objectives for the week. That being said – they should not be relied on as a sole resource!
+
+In addition to the tutor guide, are there other supports for tutors?
+
+Tutor Mentoring
+Kelly Lyboldt is currently the Foundation Course III Course Leader and a formal mentor for all new tutors. If you are having any issues or concerns, please do not hesitate to reach out to her. If students inquire about general course structure, if they can take a test at a later date etc please ask the students to email the course leader. This just helps with continuity and lets the course leader know if there is a larger problem at hand sooner rather than later.
+
+Tutor Preparation Sessions (aka Tutor Prep)
+The Thursday before each case at 1pm all tutors will come together for a tutor prep session. Prior to these sessions materials will be emailed to you for your review – and we will review them and answer questions during the in-person sessions. This is a time where major learning objectives for the week will be reviewed. How they can be extracted from the case and also we will review any diagnostic findings. We also discuss how group dynamics are going, if there are any students we are concerned about etc. It is a time for questions to be asked and generally someone in the group knows the answer! 
+
+What does a tutor do?
+
+Glad you asked! Here is a key principle: a tutor is a facilitator of learning NOT an instructor.
+
+Tutors:
+•Make sure students follow the process to maximize benefits of PBL
+• Manage interpersonal challenges (ranging from subtle to dramatic)
+• Support group processing
+• Ensure students stay within course boundaries and reach appropriate level of depth
+• Promote the use of effective learning methods and resources (help identify)
+• Encourage students to question their understanding and push themselves
+• Empower students to become independent learners
+• The tutor is not there to provide content expertise or instruction
+
+What happens in the tutor room? How do we start a case?
+
+We will talk a lot about getting to know your group and discussing with them how they’d like to function during the tutor training session itself. Once all that is set and the group is ready to begin the first case – you, the tutor, will handout page 1 of the case.
+
+A student in the group will read this aloud. Following that another student will get up to the white board and write the headers for four lists on the board. These include
+•	Facts
+•	Problems
+•	Mechanisms
+•	Plan
+
+•	Some groups will put up a fifth called Learning Objectives
+
+The students as a group will then populate the lists and identify learning objectives (content they need/want to learn to understand the physiology, pathophysiology, clinical pathology, pharmacology or anatomic pathology of the case).  This is a time where you can ask guiding questions related to helping them identify learning objectives/push them to go deeper into the material.
+
+Learning objectives most often arise when discussing the mechanisms list and plan list.
+Tasks will drive development of SOME learning objectives but are NOT all encompassing.
+
+Once the first page has been thoroughly discussed in the manner above, you hand out the second page or, when appropriate, students may ask for a piece of data like a complete blood count or chemistry panel. 
+
+Can you please elaborate a little bit? What belongs under each list heading?
+
+Sure thing! 
+Facts: students list all of the facts on a given case page
+
+Problems: Students list all the problems for a given case. For example, the patient’s age and sex might be included in the facts list but would not be included in the problems list. This process helps develop clinical reasoning by asking students to differentiate the facts from the problems and identify which problem(s) will help guide their diagnostic and treatment plan.
+
+Mechanisms: Once students have identified the problems (usually something from the patient’s history like vomiting or a finding on physical exam such as tacky mucous membranes) they need to start asking questions like what at the physiologic level could be “broken” to cause this clinical problem? Another way to word this is, what are some pathophysiologic mechanisms that could cause a clinical sign or physical exam finding.
+
+This is the heart of the conversation that will likely lead to development of the most learning objectives. They will likely recall the structure of an organ system (gross and cellular level) but they may not yet know how it functions under normal conditions to maintain homeostasis.
+
+Plan: After discussing some possible pathophysiologic mechanism students will need to think about what diagnostics/treatments they want to pursue to rule-in or rule-out or treat the underlying pathophysiology.
+- this category highlights clinical pathology and reinforces physiology
+- also supports pharmacology
+
+Also, as a tutor don’t just let the students say they want a chemistry panel. Make sure to ask them why they want the chemistry panel. What are they looking for? How will this help them better understand what might be going on with the patient? Clients are going to want to know this information before spending their hard-earned money on a test and sometimes clients won’t have money to spend so students are going to need to identify which diagnostics are going to be the most informative.
+
+It looks like there are about 3 days dedicated to each case. Do we do the same thing every day?
+
+Day 1 will look a lot like what was described above. Students will start the case, get through a couple of pages as well as some data. This should drive development of most of the learning objectives for the case. 
+
+Day 2 will be different in that about half of the session will be spent reviewing learning objectives from the previous day as a group. The second half of this day looks much like the first until the case is completed.
+
+Day 3 will be spent reviewing any new learning objectives from day 2 and possibly revisiting any from day 1. The second half of this session will be spent developing an assimilation map.
+
+What is an assimilation map?
+
+This is a map the group will develop together to link all of the patient’s presenting problems and clinical signs to the underlying pathophysiology, clinical data and pharmacology. It is an activity pursued in an effort to help them integrate these concepts, identify any weaknesses and as a tutor, we can often identify misconceptions during the conversations that arise while students are discussing how to build the map. A new module has been developed to provide some instruction on the goals of assimilation mapping, where to begin and why this activity is important for their learning. That module can be found here and you are welcome to review it:
+
+https://rise.articulate.com/share/Ia5KNvrAzeVfluVQv_Vafk0x5zy3bmUz
+
+Are there any tutor Do’s and Don’ts I should know about?
+
+First off, does do’s have an apostrophe or not? This seems controversial – so I may have just committed a don’t.
+
+The first two are most important!
+• Don’t share any aspects of the tutor guide, which includes the guide itself
+• Don’t share case objectives that are given to you in the tutor guide
+•	Sharing the tutor guide and case objectives would significantly detract from the clinical reasoning skills we are trying to develop and it would completely undermine the problem-based learning model
+
+• Don’t bring resources to distribute to your tutor group
+•	If you have a resource you’d like to share, give it to the course leader. The course leader will bring to CDG and we will consider posting the resource on Canvas for all students to access
+• Don’t answer general questions about the course or give permissions to miss assessments etc.
+•	Please have the student inquire with the course leader regarding these issues.  We like to maintain consistency to be fair. As well, tutoring is your role – you do not need to take on any more responsibility! 
+• Do feel comfortable with long moments of silence
+• One ground rule to have the group set is how tutor group absences will be handled. 
+•	It is not an expectation for you to get materials to absent student or meet
+with them outside of tutor group hours
+•	As well, this is not a remote course so zooming during tutor group is not allowed unless permissions come from student disability services. If a student is going to miss more than one session, please have them reach out to the course leader.
+•    Please let me know if a student has missed a session.
+•	Absence should be rare – in-person attendance and active engagement is required
+
+
+Clinical Reasoning Conceptual Framework for PBL
+This is the basic model we have presented to the first-year class to introduce them to major concepts in clinical reasoning. The first figure defines the overall framework. The second figure adds details related to each category in the framework. The third figure relates the framework to PBL and indicates what students have already been introduced to. Terms are defined on subsequent pages. These diagrams will be discussed during tutor training.
+
+
 <br><br>
-Main
-Chromatin structure is intricately linked to transcriptional activity1. Compacted or ‘closed’ chromatin is generally associated with inhibition of transcription, whereas ‘open’, more accessible, chromatin is more prone to being transcribed1. Polycomb repressive complex 1 (PRC1) is a repressive chromatin modifier critical for organismal development2,3. PRC1 has been proposed to inhibit gene expression by tightly compacting chromatin in a process that often is considered to restrict chromatin accessibility2,3,4,5,6,7,8,9,10,11. However, direct evidence for PRC1-compacted chromatin being inaccessible is sparse and mechanistic explanations remain unsatisfactory (reviewed in ref. 11). Furthermore, recent studies show that changes in chromatin accessibility are more gradual than the simple binary classification into open and closed chromatin suggests12,13,14,15. A challenge in consolidating these seemingly contradictory findings is limited information into how PRC1 influences the three-dimensional structure of chromatin.
+What tutors can do to help students develop clinical reasoning abilities through the PBL
+This page provides ideas and questions tutors can use to support the development of clinical reasoning abilities in their students. A detailed explanation of the clinical reasoning terms and concepts is provided on the following pages. Similar information will be shared with the students, so they will also be familiar with the terms and concepts. As with other course content, it is not the tutor’s responsibility to teach these concepts. However, by asking certain questions and pushing students to elaborate, provide details and explain their reasoning, you can help them develop their clinical reasoning abilities. In each of the 4 PBL processes below, bullets indicate ideas for how tutors can promote the development of clinical reasoning while also supporting students in learning course content.
+We hope you will experiment a bit with integrating these concepts where they naturally arise from the case and where they support student learning. We will be interested in hearing from tutors what went well and what was difficult for tutors and/or students so we can evolve this effort over time.
+1. Converting FACTS to a PROBLEM LIST
+• Encourage students to use semantic transformation to convert lay language and raw diagnostic data into concise medical terminology.
+• Encourage students to use semantic qualifiers to characterize clinical problems in ways that facilitate the identification and discrimination of possible pathophysiological mechanisms (onset, progression, severity, location, quality, etc.)
+2. Generating the MECHANISMS list
+Basic Process: Students use non-analytic and analytic reasoning to generate hypotheses about possible pathophysiologic mechanisms underlying the patient’s presentation and problems
+• First allow students to generate hypotheses about pathophysiological mechanisms intuitively, in an unstructured way, based on their previous experiences with similar cases (i.e. non-analytic reasoning)
+• Then, suggest that students identify a systematic approach to support generation of a more comprehensive list of possible mechanisms (i.e. analytic reasoning)
+o Note: this could lead students to raise the topic of diagnostic frameworks and how they are used
+• Optional - Encourage students to reflect on the differences between and the pros and cons of the analytical and non-analytical reasoning approaches and the on the value of diagnostic frameworks.
+3. Determining the PLAN
+• The plan is designed to prioritize or eliminate hypotheses and to treat the patient. If a plan is suggested before mechanisms are proposed, ask students what implicit hypotheses prompted the plan.
+• Encourage students to be specific in their plan – don’t just list ‘PE’ or ‘Chemistry panel’, specify exactly what tests they want to run.
+• Ask students to explain why they are requesting a specific diagnostic test or treatment – how does the plan help them prioritize mechanisms or manage the patient’s problem?
+4. Generating a CONCISE CASE SUMMARY
+Promotes students’ ability to identify and synthesize key information, critical steps in the development of a problem representation
+• Acknowledge the challenge of determining what information can be eliminated and how to consolidate multiple findings into a single concept like a syndrome
+• Remind students that there is not a single correct answer.
+• Compare and contrast different summaries :
+o What information did students eliminate and why?
+o What are the advantages and disadvantages of eliminating information?
+o How and why did students synthesize multiple bits of info into single concepts?
+Written by Marnie FitzMaurice and Jonathan Wood in consultation with Kelly Lyboldt, Block III Course Leader (2024)
+Clinical Reasoning Terms and Definitions
+Many of the terms below have been introduced to the students in Block I and Neuroanatomy. Terms that will be newly introduced to students in Block III are Diagnostic Framework and Problem Representation. The definitions of these terms as they apply in a clinical context are provided below. An explanation of how these concepts can be specifically applied in Block III is provided on the previous page.
+Semantic Transformation
+• Replaces lay language and detailed diagnostic data with standardized medical terminology
+o example: “dragging the pelvic limbs and hyper-reflexia” becomes “spastic paraplegia”
+o example: “potassium of 2.9 mEq/L” becomes “hypokalemia”
+• Replaces a group of clinical signs with the relevant syndrome
+o example: “ptosis, enophthalmos, and miosis” becomes “Horner’s Syndrome”
+o example: “azotemia, isosthenuria, small irregular kidneys” becomes “chronic renal disease”
+• Semantic Transformation promotes a clinical understanding of a situation and standardizes language to reduce cognitive load and facilitate pattern recognition
+Semantic Qualifiers
+• Standardized, often paired/opposing, qualitative descriptors of a clinical presentation
+• Describe (or qualify) aspects of a clinical presentation including time course (duration, onset, temporal pattern) severity, location, quality, provoking/palliating factors
+• Can be used to compare and contrast, and thereby weigh the probability of differential diagnoses
+• Examples
+o sharp/dull
+o acute/subacute/chronic
+o abrupt/gradual
+o painful/non-painful
+o productive/nonproductive
+o localized/multifocal/diffuse
+o constant/intermittent/episodic
+o stable/waxing-and-waning/progressive
+o proximal/distal
+o exertional/non-exertional
+Written by Marnie FitzMaurice and Jonathan Wood in consultation with Kelly Lyboldt, Block III Course Leader (2024)
+Dual Processing Theory
+Clinical decision-making relies on 2 types of cognitive processes, analytic and non-analytic reasoning, that occur in parallel. By understanding these processes and recognizing the relative strengths and weakness of each, students become better able to regulate their own reasoning processes to improve their clinical decision making.
+Non-analytic reasoning
+• Fast, intuitive, unconscious generation of clinical hypotheses and decisions
+• Occurs when clinical cues automatically and unconsciously activate a distributed neural network encoding relevant clinical information
+• Relies on pattern recognition based on organized knowledge structures that form as a result of extensive experience
+• Pros: intuitive, fast, efficient, often accurate in experienced clinicians
+• Cons: subject to bias and blindness to error; prone to error in novices who lack extensive experience
+• Experts typically rely first on non-analytical reasoning, and use analytic reasoning to validate conclusions, mitigate biases, manage situational challenges, and resolve knowledge gaps
+• Novices can develop their non-analytic reasoning through deliberate practice. This involves intuitively generating hypotheses, checking them with a systematic analytical approach, and reflecting on what viable hypotheses they missed, why they might have missed them, and how they can remember them in the future. This learning will occur over time based on experience, but deliberate practice can accelerate the learning process.
+Analytic Reasoning
+• Involves a systematic, deliberate approach to a clinical problem through methodical gathering and evaluation of information
+• Pros: rational, deliberate, reliable, safe
+• Cons: slow and resource intensive – not sustainable as a regular approach in clinical practice
+• Novices rely heavily on analytic reasoning as they lack or have poorly developed knowledge structures
+• Experienced clinicians rely on analytic reasoning when 1) confronted with an unfamiliar or atypical case, 2) the stakes are high and decisions need to be double-checked, 3) concerns about bias prompt a review of clinical decisions
+• Repetition of analytic reasoning in response to similar patient presentations builds organized knowledge structures (i.e. Illness Scripts and Diagnostic Frameworks) that support non-analytic reasoning in subsequent cases
+Hypothesis Generation
+• As a clinician is presented with patient information, they use analytic and non-analytic reasoning to generate hypotheses about the cause(s) of their patient’s problems. These hypotheses evolve as additional information is acquired until a diagnosis is determined or the clinician has enough information to treat the patient.
+• Hypotheses may include body systems, regions or organs, pathophysiological mechanisms, syndromes, specific diseases or disease agents, etc. that could underlie the patient’s presentation
+• Hypotheses will dictate decisions to gather additional information with the goal of refining the list of hypotheses and prioritizing the most likely hypotheses (i.e. hypotheses drive the plan in PBL).
+In Block III, students generate hypotheses based on the possible pathophysiologic mechanisms underlying the patient’s clinical problems
+Written by Marnie FitzMaurice and Jonathan Wood in consultation with Kelly Lyboldt, Block III Course Leader (2024)
+Diagnostic Frameworks (new to students in Block III)
+• Efficient, systematic approaches to clinical problems that help a clinician 1) generate diagnostic hypotheses and 2) select diagnostic investigations
+• “Chunk” diagnoses in intuitive ways to facilitate recall, thereby reducing the chance of missing an important differential diagnosis
+• Expert frameworks will be strategically organized to guide an efficient diagnostic process, minimizing the number of diagnostic tests required and reducing unnecessary diagnostic testing
+• Simple example: approach to generating and investigating causes of azotemia – diagnoses are “chunked” into 3 categories, each of which indicates a few simple tests the results of which allow prioritization of the categories:
+o Prerenal (check mucous membranes, skin turgor, PCV/TS)
+o Renal (palpate kidneys, check USG)
+o Post-renal (palpate bladder)
+• Over time and based on experience, clinicians often develop more contextualized and efficient diagnostic frameworks, for example, frameworks based on early versus later clinical findings rather than pathophysiological mechanisms. However, they may fall back on more analytically organized framework when they are stumped.
+• In Block III tutor group, students will make connections between clinical problems and patho-physiological mechanisms, developing a foundation for diagnostic frameworks and analytic reasoning.
+Problem Representation (new to students in Block III)
+• A concise (1-2 sentence) description of the patient’s presentation that includes information most relevant to diagnosing and managing the current concerns
+• Uses medical terminology (semantic transformation and semantic qualifiers)
+• Facilitates the generation of differential diagnoses by activating illness scripts and focusing analytic reasoning efforts, thereby influencing the acquisition of subsequent information
+• Cognitive theory
+o reduces cognitive load by eliminating distractors and focusing on most relevant information
+o translation into standardized medical terminology facilitates cuing and activation of illness scripts
+• Components of the Problem Representation
+o Who is the patient? (highly relevant signalment, medical history and epidemiological risk factors)
+o What is the time course of the problem? (onset, duration, pattern)
+o What are the key features of the clinical presentation? (key examination and diagnostic findings)
+• Example:
+o Raw information: Patient is an unknown-age spayed female Pitbull mix adopted 8 years ago from a shelter. She had been a healthy dog but began throwing up 2 days ago. She has vomited 7-8 times a day. It started out as food but now is just yellow colored liquid. She won’t eat anything and had some bloody diarrhea. She is just lying around the house and hasn’t wanted to play with toys. Her owners say she did get into the garbage a few days before this started. She has a capillary refill time of 3 seconds, a heart rate of 144 bpm with synchronous but thready pulses. She is panting and painful on cranial abdominal palpation. Frank blood mixed with liquid stool was found on digital rectal exam.
+o Problem representation: A senior spayed female Pitbull mix with acute abdomen and hypovolemic shock following dietary indiscretion.
+• In Block III, a task has been added to each case asking students to practice generating concise case summaries. They are not expected to achieve true Problem Representations, but will practice identifying key information, eliminating distracting information, converting information into medical terminology and combining multiple findings into single concepts such as syndromes.
 
-PRC1 complexes can include one of five different chromobox proteins (CBX), all homologous to the fly polycomb16. The CBX protein CBX2 forms condensates through liquid–liquid phase separation, providing a potential mechanism for the compartmentalization of facultative heterochromatin9,10. Phase separation is emerging as a mechanism for chromatin organization through the association of self-similar domains17. Chromatin can form condensates in the presence of divalent cations and histone tails17,18,19,20. Within these condensates, chromatin has variably been described as liquid-like, formed through liquid–liquid phase separation17,19, or as solid20. A recent structure of liquid–liquid phase-separated chromatin, condensed by magnesium cations without protein-binding partners, revealed that nucleosomes organize into irregular assemblies19. The lack of apparent periodicity in chromatin geometry has also been noted in computational simulations and in first attempts to image chromatin in cells by cryo-electron tomography (cryo-ET)21,22. However, the structural arrangement of chromatin condensed by a repressive factor remained unknown.
-
-Here, we describe the three-dimensional cryo-ET structure of chromatin condensed by a polycomb-repressive complex. We focus on a PRC1 complex that includes CBX8 (PRC1C8), a CBX that is upregulated during cell differentiation23 and has oncogenic potential24,25. We show that dynamic interactions between PRC1C8 and chromatin promote condensates through phase separation. Mechanistically, positive charges on the internally disordered regions (IDRs) of CBX8 are required for DNA binding and chromatin condensation. Contrary to expectations, PRC1-condensed chromatin is not tightly compacted but stabilizes a porous chromatin structure that allows largely unhindered diffusion of PRC1C8.
-
-Results
-PRC1–chromatin condensates are porous and accessible
-To determine the structure of polycomb-compacted chromatin and the mechanisms of polycomb-driven chromatin compaction, we reconstituted the system in vitro. The reconstitution included a chromatinized polycomb target gene (3,631 bp DNA) with a sequence from the human ATOH1 locus, which can harbor roughly up to 20 nucleosomes, assuming 150–200 bp per nucleosome. This construct is referred to as chromatin hereafter. We used a native DNA sequence for chromatin reconstitution, as regular spacing using artificial nucleosome stabilizing sequences were previously reported to drive the liquid–liquid phase separation of chromatin17. The nucleosomes on the chromatin that we reconstituted are not evenly phased (Extended Data Fig. 1a). The purified recombinant PRC1 complex is composed of RING1B, BMI1 and CBX8 (PRC1C8) (Fig. 1a). The PRC1C8 complex is pure (Fig. 1b) and monodispersed (Fig. 1c) and retains H2A ubiquitylation activity comparable to the RING1b–BMI1 heterodimer (Fig. 1d). This also applies to all other protein complexes used in this study (Extended Data Figs. 2 and 1b,c).
 <br><br>
-Fig. 1: The molecular structure of PRC1–chromatin condensates is porous and accessible to macromolecules.<br>
-When combined, chromatin and PRC1C8 were sufficient to form spherical phase-separated condensates, apparent in differential interference contrast (DIC) and fluorescence imaging (Fig. 1e). Using two different fluorescence labels, we confirmed the presence of both chromatin and PRC1C8 within the same condensates (Fig. 1e). Importantly, both PRC1C8 and chromatin are necessary for chromatin condensation; the individual components do not phase-separate (Fig. 1e). PRC1C8–chromatin condensates are preserved on an EM grid after vitrification (Fig. 1f). To study these structures by cryo-ET, we reduced the salt concentration and increased chromatin concentration (Methods). This was done to decrease condensate size and abundance, which was necessary for high-quality data collection (Fig. 1g and Table 1). We used a PRC1 complex with a maltose binding protein (MBP)-tagged CBX8 for cryo-tomography. The MBP tag does not affect condensation, as condensates still form after tag cleavage (Extended Data Fig. 1d). We collected tomograms near the borders of condensates, to observe the boundary conditions (see Extended Data Fig. 3a for an example of a condensate on the grid). Subtomogram averaging allowed us to identify the orientation and position of individual nucleosomes in the tomographic volume (Extended Data Fig. 3b–d). The reconstruction reveals a dense network of hundreds of nucleosomes with a distinct condensate boundary (Fig. 1g and Supplementary Movie 1). We could not unambiguously assign density to PRC1C8, possibly because it adapts various conformations while simultaneously using multiple surfaces to interact with chromatin (more below). The final structure reflects the arrangement of nucleosomes in PRC1C8–chromatin condensate (Fig. 1g, second panel). Unexpectedly, the structure shows that PRC1C8 does not compact nucleosomes into an impassable barrier. Instead, PRC1C8 stabilizes chromatin in a porous mesh-like structure (Fig. 1g). Analyzing the orientation of individual nucleosomes toward their neighboring nucleosomes shows no obvious orientation bias (Extended Data Fig. 3c,d). We conclude that PRC1C8 does not induce a substantial internucleosome orientation bias but rather supports the formation of a porous chromatin structure.
-
-<br><br>
-
-We next wished to determine the size of macromolecules that could diffuse into PRC1–chromatin condensates. We used the condensate structure to calculate solvent-excluded volumes26 with variable probe radii ranging from 0.2 nm to 20 nm (Fig. 1h,i). Interestingly, the analysis shows that the condensate is accessible for macromolecules of a considerable size of up to 8 nm in radius (equivalent to approximately 600 kDa). Small macromolecules (<10 kDa), with radii below 2 nm, would have enough room to access every single nucleosome. Conversely, access is increasingly restricted for molecules with a radius above 8 nm (approximately 600 kDa). This suggests that PRC1–chromatin condensates are surprisingly accessible and that PRC1C8 itself would be able to move within these condensates largely unhindered.
-
-To compare the structure of PRC1C8–chromatin condensates with PRC1C8-free chromatin, we generated cryo-tomograms of chromatin without PRC1C8 (Fig. 1j and Supplementary Movie 2). Low-magnification cryo-electron microscopy (cryo-EM) images show that condensation happens only in the presence of PRC1C8 (Extended Data Fig. 4a,b) and condensates are preserved on the EM grid. The structure of chromatin in the absence of PRC1C8 is less dense than in the presence of PRC1C8, with distances between neighboring nucleosomes that are on average significantly longer (Fig. 1j,k). These results confirm that PRC1C8 facilitates large-scale chromatin restructuring.
-
-We observe some sporadic areas of high nucleosome density, even without PRC1 (Extended Data Fig. 4c,d). The median distance to the next neighboring nucleosomes in these sporadic dense PRC1C8-free condensates is very similar to distances measured in the PRC1C8–chromatin condensates (9.8 nm and 10.9 nm, respectively; Extended Data Fig. 4d). This matches closely to distances reported for chromatin condensed by MgCl2, where the radial distribution function of nucleosomes peaked at 10.6 nm (ref. 19). At the nuclear periphery in cells, the median distance between neighboring nucleosomes is about 12 nm, which is again remarkably similar27. Overall, this raises the possibility that PRC1 thermodynamically stabilizes a naturally occurring condensed chromatin state, rather than actively compacting chromatin. By doing so, PRC1 may cause multiple compacted arrays to cluster together more often.
-
-PRC1C8 is mobile and chromatin is static within condensates
-To gain further insights into PRC1C8–chromatin condensation, we tested the dependency of condensation on the concentration of PRC1 and chromatin. Condensates form under close to physiological monovalent salt concentrations of 122.5 mM (90 mM KCl and 32.5 mM NaCl) at PRC1C8 concentrations as low as 250 nM and are dependent on PRC1C8 (Fig. 2a). At a high concentration of PRC1C8 (2,000 nM), most efficient condensation occurs at high chromatin concentration (850 nM nucleosome concentration). Yet, at lower concentration of PRC1C8 (250 nM), ideal condensation appears at lower chromatin concentration and the condensation efficiency is then reduced when the chromatin concentration increases (Fig. 2a). This is possibly because at high chromatin concentration the large amount of potential binding sites for PRC1C8 reduces the average per-site occupancy of PRC1C8. This may lead to less efficient phase separation. A similar observation was recently made for a PRC1 complex with CBX2 and PHC228. Altering the salt concentrations confirms that PRC1C8–chromatin condensates most readily form close to physiological salt concentration (Extended Data Fig. 5a). We conclude that PRC1C8 is sufficient to drive the formation of the chromatin condensates under physiologically relevant conditions. Furthermore, the efficiency of phase separation depends on the ratio of PRC1 to chromatin. We next asked if chromatin and PRC1 show different dynamics within the condensates.
-<br><br>
-
-Fluorescence recovery after photobleaching (FRAP) of PRC1C8–chromatin condensates shows fast recovery kinetics for green fluorescent protein (GFP)-labeled PRC1 (Fig. 2b, in green; T1/2 = 71 ± 8 s). Conversely, we observed a very slow recovery for Cy5-labeled chromatin (Fig. 2b, red). The GFP signal does not recover up to 100% but rather plateaus at 72 ± 2%. This is possibly because a substantial percentage of the condensate has been bleached, while redistribution of GFP-labeled PRC1C8 within the same condensate probably drives fluorescence recovery during the monitored timescale. However, we cannot exclude the possibility that incomplete recovery is due to an immobile fraction of CBX8. To exclude the possibility that a large protein tag on CBX8 prevents it from remaining static on chromatin, we used a synthetic fluorescence dye to sparsely label random lysine residues of PRC1C8. We then compared FRAP recovery for two different PRC1 complexes: one complex included CBX8 with an N-terminal MBP tag and the other included an untagged CBX8 (Extended Data Fig. 5b,c). The PRC1C8 with untagged CBX8 is still dynamic (Extended Data Fig. 5b, T1/2 ≈ 1,300 s), albeit recovery is slower compared with MBP-tagged PRC1C8 (Extended Data Fig. 5c, T1/2 = 362 ± 29 s) and the GFP-tagged protein (Fig. 2b, T1/2 = 71 ± 8 s). Condensation experiments in the presence of radical scavenger buffer led to a slightly different condensate morphology (Extended Data Fig. 5d), but PRC1C8 remained dynamic under these conditions either with or without the MBP tag on CBX8 (Extended Data Fig. 5e,f, respectively; T1/2 = 112 ± 12 s and 79 ± 28 s, respectively). Chromatin remains static in all samples (Fig. 2b and Extended Data Fig. 5b,c,e,f). These results indicate that, although the tagging and labeling strategies affect the dynamics of the system quantitatively, its overall behavior remains qualitatively the same: within condensates, PRC1 is mobile while chromatin itself is static (Fig. 2c and Extended Data Fig. 5). This confirms that PRC1C8 can diffuse within PRC1C8–chromatin condensates, in line with our structural analysis (Fig. 1h,i). Recent publications have been at odds as to the solid or liquid state of chromatin17,20. Our data suggest that chromatin behaves as a solid-like material when condensed by PRC1C8.
-
-We next wished to gain insights into PRC1C8–chromatin condensate formations at low protein concentrations that better resemble physiological concentrations. To this end, we used a single-molecule confocal microscope that allows tracking of individual condensates through a confocal volume29 (Extended Data Fig. 6a,b). We used GFP-labeled PRC1C8, where GFP peaks indicate the formation of bright protein assemblies. Importantly, this system allows the detection of protein assemblies smaller than what can be identified by standard fluorescence microscopes30. In the presence of chromatin, assemblies are observed at PRC1C8 concentrations as low as 62.5 nM (Extended Data Fig. 6c). This indicates that condensates can form at physiologically relevant PRC1 concentrations, previously estimated as 130 nM in polycomb bodies in cells31. In the absence of chromatin, GFP peaks are detected only sporadically, even at the highest PRC1C8 concentration (Extended Data Fig. 6b,c). Overall, these data indicate that PRC1C8–chromatin condensates form under physiologically relevant PRC1C8 concentration but do not form without chromatin.
-<br><br>
-Multivalent PRC1C8–chromatin interactions induce condensation
-A scaffold-client-based phase separation model has recently been proposed for PRC1–CBX2 complexes28,32,33,34, in which CBX234 or chromatin28 act as a scaffold that induces phase separation of PRC1 proteins. Since PRC1C8 is insufficient to phase-separate without chromatin (Fig. 1e), we wished to test whether chromatin might act as a scaffold that concentrates PRC1C8 and induces phase separation. To test this model, we probed the different interaction sites between PRC1 and chromatin. The whole PRC1C8 complex (RING1b, BMI1 and CBX8) is necessary and sufficient to condense chromatin, whereas the PRC1 core or CBX8 alone do not condense chromatin (Fig. 3a). This suggests multivalent interactions between the PRC1C8 complex and chromatin, involving different chromatin interacting surfaces in both PRC1 and CBX8. To identify the different interaction sites, we first used crosslinking mass spectrometry (XL-MS) to probe for protein–protein interactions within PRC1C8–chromatin condensates (Fig. 3b and Supplementary Table 4; PRC1 with an MBP-tagged CBX8 was used). As expected, we identified extensive crosslinks between the RING domains of RING1B and BMI1. RING1B and BMI1 did not crosslink to histones. This is probably because these proteins bind to the acidic patch of the nucleosome35, which is unlikely to be crosslinked by the BS3 crosslinker that reacts preferentially with lysine residues. The results show multiple crosslinks from the CBX8 chromodomain to the H3 histone tail (Fig. 3b), indicative of binding. Interactions between CBX proteins and H3K27me3-modified H3-histone tails have been proposed to recruit PRC1 to chromatin modified by PRC22,3. However, CBX8 did crosslink to unmethylated H3 tails (Fig. 3b) and a trimethyl-lysine analog (MLA) at H3K27 did not improve the chromatin condensation activity of PRC1C8 (Fig. 3d). We conclude that H3K27me3 is not necessary for the chromatin condensation activity of PRC1C8 and that the H3 histone tail, even if unmodified, provides an interaction site for PRC1 on chromatin.
-
-<br><br>
-We also observe extensive self-crosslinks in the IDRs of CBX8 (Fig. 3b). This may indicate inter- or intramolecular interaction within this flexible lysine-rich region. However, these self-crosslinks within the IDRs appear even in the absence of chromatin, suggesting that they are not related to condensation (Extended Data Fig. 6d and Supplementary Table 3).
-
-DNA has previously been shown to bind CBX836 and could provide another interaction site for PRC1C8 on chromatin. We tested DNA binding in solution using a 24 bp double-stranded DNA probe and found that CBX8 is necessary for the DNA-binding activity of PRC1C8 (Fig. 3c). Hence, CBX8 binding to DNA provides a second interaction site of PRC1 with chromatin.
-
-We conclude that PRC1 interacts with chromatin via at least three distinct sites: PRC1C8 binds to DNA and the H3 tail via CBX8, as shown herein (Fig. 3), and binds the nucleosome acidic patch via RING1b–BMI1 as shown elsewhere35. These multivalent interactions would have to change dynamically while PRC1 maintains the condensed state of chromatin and diffuses through it at the same time (Fig. 2b). Collectively, we propose that PRC1 induces chromatin condensation via phase separation, through dynamic multivalent interactions between PRC1 and chromatin.
-
-Efficient condensation requires DNA binding by the CBX8 IDRs
-To test how different PRC1C8–chromatin interaction sites affect phase separation, we generated several different chromatin and CBX8 mutants (Fig. 4a and Extended Data Fig. 7). Removing the CBX8 chromodomain (PRC1C8ΔChromo), which interacts with the H3 tail36,37 (Fig. 3b), does not have a significant effect on phase separation (Fig. 4b,c). We then mutated 21 positively charged residues in the CBX8 IDRs to alanine (PRC1C8KR21A). PRC1C8KR21A is analogous to a phase-separation-deficient CBX2 mutant that was previously studied10. Accordingly, PRC1C8KR21A shows a clear defect in phase separation activity (Fig. 4b,c).
-
-<br><br>
-To further dissect the mechanism, we tested the DNA-binding activity of PRC1C8KR21A and PRC1C8ΔChromo against a 24 bp double-strand DNA probe with a sequence from a polycomb-target gene. Both mutants are defective in DNA binding (Fig. 4d). Hence, although DNA binding of the chromodomain was reported previously36, our data now suggest that the IDRs of CBX8 are also contributing to DNA binding. We hypothesize that electrostatic interactions between the negatively charged DNA to positive charges in the IDR lead to charge screening, which promotes phase separation of chromatin (Fig. 4e).
-
-We next set to determine if the H2A acidic patch of the nucleosome affects PRC1C8–chromatin condensation. For that, we mutated residues in the H2A acidic patch that were previously shown to interfere with the interaction between PRC1 and the nucleosome35 (Extended Data Fig. 7). We observed a change in the condensate morphology (Extended Data Fig. 7a): whereas PRC1C8–chromatin condensates appear spherical, the condensates with mutated acidic patch chromatin adapt elongated and branched structures (Extended Data Fig. 7a; most apparent at lower PRC1C8 concentrations). The effects of the PRC1C8KR21A mutant and the acidic patch chromatin mutant are additive (Extended Data Fig. 7b), suggesting that both interaction sites contribute to phase separation independently. The PRC1C8ΔChromo mutant does not substantially affect phase separation, regardless of the chromatin used (Extended Data Fig. 7c). Overall, our data support a model in which PRC1C8 uses its chromodomain and IDRs to bind DNA. Then, PRC1C8 condenses chromatin through interactions between the IDRs and DNA and, independently, between PRC1 and the acidic patch on the nucleosomes (Fig. 4e).
-
-CBX8-bound chromatin is accessible in differentiated cells
-Given the porous structure of PRC1C8-condensed chromatin in vitro (Fig. 1) and the dynamic diffusion of PRC1C8 within condensates (Fig. 2b), we next wished to probe for the accessibility of PRC1C8-bound chromatin in cells. We carried out the assay for transposase accessible chromatin using sequencing (ATAC-seq) in differentiated mouse embryonic stem (mES) cells, combined with chromatin immunoprecipitation followed by sequencing (ChIP-seq) for CBX8 and H3K27me3. We used differentiated mES cells because CBX8 is expressed at very low levels in pluripotent mES cells and is upregulated during retinoic acid (RA)-induced cell differentiation (ref. 23 and Fig. 5a). The DNA-loaded Tn5 used in ATAC-seq experiments forms a dimeric complex of approximately 130 kDa with an estimated hydrodynamic radius38 of 4.6 nm (based on Protein Data Bank (PDB) code 1MUH39). In agreement with the accessibility analysis in vitro (Fig. 1h), the majority of CBX8 ChIP-seq peaks in cells overlapped with ATAC-seq peaks (Fig. 5b), indicating that they are accessible to Tn5. This observation was persistent across the genome, where ATAC-seq peaks are colocalized with CBX8 and H3K27me3 peaks (Fig. 5c), indicating that CBX8-target genes are largely accessible. The insufficiency of CBX8 to restrict chromatin accessibility is further supported by the similar ATAC-seq profiles of wild-type and Cbx8-knockout (KO) mES cells (Fig. 5c,f, compare blue with orange). Hence, although the overall chromatin accessibility is reduced during mES cell differentiation (Fig. 5d,e), in agreement with previous works40, this process is not dependent on CBX8. Collectively, we show that CBX8-bound polycomb-repressed chromatin is largely accessible in differentiated mES cells (Fig. 5b–f).
-<br><br>
-
-Data thus far suggest that the deletion of CBX8 does not change chromatin accessibility in mES cells (Fig. 5c,f). Yet, other CBX proteins could potentially compensate for the loss of CBX8 in endogenous polycomb target genes. Therefore, we wished to test CBX8 in a system where its recruitment is sufficient to trigger gene repression. To this end, we used a mES cell line that expresses a tet repressor protein (TetR)–CBX8 fusion and includes a GFP reporter cassette downstream of a tet operator (TetO) DNA-binding array, stably integrated at chromosome 15 (coordinates: mm10 chr15: 79,013,675; Fig. 5g)41. In the absence of doxycycline (Dox), the TetR–CBX8 fusion is recruited to the TetO–GFP reporter together with RING1B and initiates transcriptional repression (Fig. 5g and Extended Data Fig. 8a). However, GFP repression is reversible upon Dox addition, which causes release of both TetR–CBX8 and RING1B from the TetO DNA-binding array (Fig. 5g and Extended Data Fig. 8a).
-
-Remarkably, ATAC-seq after prolonged Dox treatment did not reveal a substantial increase in chromatin accessibility over the promoter region (Fig. 5h). Small changes in the ATAC-seq signal can be measured across samples and replicates, but these follow the sample-to-sample variations globally (see Extended Data Fig. 8b for ATAC-seq coverage over the HoxA gene cluster) and are therefore unlikely to be indicative of increased local accessibility.
-
-The only increment in accessibility upon Dox treatment occurred downstream of the GFP cassette, at a considerable distance from the TetO recruitment site and its adjacent PGK reporter (Fig. 5h). This distal site includes another phosphoglycerate kinase (PGK) promoter that is placed over 5 kbp downstream to the TetO array. This distal PGK promoter originated from the construct that was used to generate the reporter (ref. 41 and references therein) and does not express a functional protein-coding messenger RNA. Hence, we cannot exclude the possibility that CBX8 affects accessibility at sites distant from the main recruitment hub, possibly through indirect effects. Nevertheless, the data indicate that CBX8 recruitment and subsequent gene repression are insufficient to restrict chromatin accessibility at the recruitment site.
-
-Discussion
-In conclusion, we have shown that PRC1–CBX8 binds chromatin via multivalent interactions and induces chromatin condensation using both the nucleosome interacting surface of PRC1 and the IDRs of CBX8. PRC1C8 is dynamic within condensates while keeping chromatin in a static, solid-like state (Fig. 3). This is in contrast to the liquid-like state of chromatin condensates that were observed in vitro, in the absence of PRC117. We established that PRC1C8 is sufficient to induce the solid condensed state of chromatin.
-
-How can PRC1 condense chromatin yet maintain a highly dynamic behavior in the nucleus? PRC1 is characterized with a short residence time on chromatin31. Solid-like chromatin that is condensed by a mobile chromatin binder has been shown in vitro for a truncation of the Sterile Alpha Motif (SAM)-domain protein polyhomeotic (Ph)42 and in cells for HP1a at chromocenters20. Yet, the mechanism allowing PRC1 and other gene-repressing factors to condense chromatin while constantly diffusing in it remained largely unknown.
-
-Our cryo-EM structure of PRC1-condensed chromatin explains how PRC1 can move in condensed chromatin (Fig. 1), owing to the large pores that are formed between condensed nucleosomes. The multivalent interactions between PRC1–CBX8 and chromatin provide PRC1 with multiple docking sites on chromatin: unmodified and modified H3 tail (Fig. 3b–d), DNA (Fig. 3c) and the acidic patch of the nucleosome35. Hence, it is possible that PRC1–CBX8 can constantly change its interactions with chromatin to maintain its condensed structure while utilizing its different chromatin-interacting surfaces to dynamically move around. While doing so, the positively charged IDRs of CBX8 mask the negative charge of the DNA to bring together chromatin segments and stabilize the condensed state of chromatin (Fig. 5i). Neither the DNA-binding activity of the chromodomain (Fig. 4b) nor H3K27me3 (Fig. 3d) seem to be necessary for efficient PRC1C8–chromatin phase separation. A potential limitation in the usage of a methyl-lysine analog (Fig. 3d) is that it may not always serve as a perfect histone mimic (discussed in ref. 36). However, since the chromodomain of CBX8 is dispensable for chromatin condensation (Fig. 4), it is plausible that histone tail binding may be dispensable too. Given that the chromodomain is required for DNA binding (Fig. 4d) and implicated in binding to H3K27me336,37, it may play a role predominantly in recruitment.
-
-In cells, canonical PRC1 includes an additional PHC protein, which was previously implicated in chromatin compaction and condensation8,28,42. We reasoned that an in vitro study of a simplified three-subunit complex, devoid of a PHC subunit, would allow us to characterize the chromatin condensation activity of the CBX subunit. This minimal complex also allowed us to overcome difficulties in purifying a PHC-bound PRC1 complex in sufficient quantities and purity for structural studies. It is plausible that the chromatin compaction activities of CBX8 and the PHC subunit cooperate in vivo, and the absence of a PHC subunit in our experiments presents a limitation when trying to extrapolate from our in vitro results.
-
-As our experiments were not designed to extensively characterize the contribution of protein–protein interactions toward phase separation or chromatin condensation, we cannot exclude their involvement. Indeed, oligomerization of BMI1 was reported43 and PHC polymerization influences PRC1–chromatin condensate properties28. However, PRC1C8 does not form condensates in the absence of chromatin in vitro (Fig. 1e). Furthermore, there are only about ten PRC1 molecules per polycomb domain in cells31, which is a factor that needs to be considered when attempting to link protein oligomerization to chromatin compaction. More studies are needed to determine how PRC1 molecules are distributed and work together within polycomb domains in vivo and how protein–protein and protein–DNA interactions contribute to this process.
-
-Our data indicate that chromatin condensation together with dynamic behavior within chromatin condensates is an intrinsic biophysical property of PRC1–CBX8. It is plausible that the dynamic behavior of PRC1 within chromatin condensates is required to allow PRC1 to modify nucleosomes by the H2AK119ub mark while holding them together. This phenomenon might represent a broad paradigm of repressive chromatin. The internal structure of PRC1–chromatin condensates is a porous network of nucleosomes (Fig. 1). Such a structure could present a size-selective diffusion barrier, in agreement with its permeability to PRC1 diffusion in vitro (Fig. 2) and Tn5 accessibility in cells (Fig. 5). The existence of such a size-selective diffusion barrier remains to be identified in vivo, where it may contribute to gene repression by selectively excluding transcriptional coactivators, which are commonly large protein complexes (>1 MDa (refs. 12,44,45,46)). ATAC-seq experiments reach their limitations in this context, because of the small size of the Tn5 used in these assays. Hence, from our experiments in cells, we can conclude only that CBX8-bound chromatin is not entirely inaccessible. Future studies may develop size-selective probes to directly address questions of size-selective chromatin accessibility genome-wide. The hypothesis that polycomb-mediated repression antagonizes Pol II transcription without blocking all proteins has been made nearly three decades ago47. This idea was conceived on the basis of the observation that T7 polymerase (~100 kDa) can initiate transcription from a polycomb-repressed locus but GAL4-dependent transcriptional activation does not take place there. This is in agreement with the inverse correlation between the density of chromatin domains and the molecular weight of the chromatin modifiers present in them12. Transcription factor size has also been suggested to determine access to different chromatin domains based on simulations48. Combining our results with earlier findings12,19,20,48, we propose that size-selective exclusion may be part of a broader mechanism by which chromatin-interacting proteins regulate the accessibility of repressive chromatin.
-
+The Role of Problem-based Learning in the DVM Curriculum
+Why does Cornell u.lize problem-based learning?
+In problem-based learning (PBL), students work in small groups using a clinical “tutor case” as a
+springboard for exploring course material. Faculty, referred to as tutors, serve as facilitators,
+guiding the students’ learning. However, students within the tutor group should be the drivers
+of their educaHon, idenHfying learning opportuniHes, independently researching these topics,
+and sharing their knowledge with their peers in the group to check for shared understanding. In
+this way, PBL holds students accountable for independent mastery of the material, while also
+supporHng the development of communicaHon, collaboraHon and professionalism skills that are
+an essenHal component of preparing for a career in veterinary medicine.
+Some of the benefits of PBL documented through educaHonal research include:
+• SHmulates student curiosity for the subject maMer
+• Sustains moHvaHon to learn foundaHonal scienHfic knowledge by making explicit its
+clinical relevance
+• AcHvates prior knowledge to allow students to build on exisHng frameworks
+• Promotes deep-learning and long-term retenHon of the material
+• Supports integraHon and applicaHon of the material
+• Fosters professional skills and aOtudes important throughout the students’ educaHon
+and in the workplace
+• Supports the development of life-long, self-regulated learning skills
+How does PBL support competency-based veterinary educa.on?
+The DVM program at Cornell is competency-based, with a competency framework, developed
+by college faculty, used to design, deliver and monitor the efficacy of the curriculum. At the
+course-level, these competencies support curriculum coherence, where each course plays a role
+in helping ensure students achieve the intended program outcomes.
+The curriculum framework consists of 9 overarching domains of competency. Beneath these
+domains, are sets of competencies and sub-competencies that provide more detailed guidance
+on the knowledge, skills, and aMributes expected of graduates of our program. Tutors play an
+important role in fostering student development of professional skills including criHcal
+reasoning and problem solving, communicaHon, collaboraHon, and professionalism. Tutors
+should therefore familiarize themselves with the competency framework, available online here,
+to help prepare them for their role.
+PBL serves an essenHal funcHon in our curriculum, preparing graduates to be competent and
+confident veterinary professionals on day one of pracHce. The small group, case-based format
+of PBL has the potenHal to foster the following:
+Jodi Korich, Associate Dean for Educa5on February 19, 2024
+2
+Professionalism
+• PracHce professional behavior and conduct in the tutor group
+• Being responsible to the team
+• PracHce Hme management
+• Balance studies with aMending to personal well-being
+• Building resilience
+CommunicaHon
+• Progress and learning depends heavily on effecHve communicaHon with peers
+• Engagement, respect, conflict resoluHon, learning how to agreeably disagree
+• Group processing and tutor feedback provide opportuniHes to pracHce calibraHon of
+study approaches
+CollaboraHon
+• Learn how to leverage team diversity as the group pools its knowledge and experience
+• Development of skills to support effecHve teamwork
+• PracHce balancing parHcipaHon across the group
+• PracHce producHve mediaHon of conflicts
+• PracHce inclusivity by incorporaHng other’s ideas and perspecHves
+• Respond to construcHve feedback
+Evidence-based pracHces
+• Recognize limits of one’s own knowledge
+• Construct relevant quesHons
+• Locate relevant informaHon
+• Apply informaHon to solve problems
+PBL also promotes the integraHon of knowledge and skills across disciplines and courses, a key
+apHtude needed by veterinarians who must apply knowledge to real world cases and problems.
+Finally, PBL helps students strengthen their self-regulated learning skills. The cyclical process of
+seOng learning goals, acHvely construcHng learning plans, monitoring learning outcomes and
+adjusHng learning approaches are all criHcal skills for life-long learning in the veterinary medical
+profession.
+How can tutors foster student development of professional competencies?
+PBL tutoring is an acquired skill that requires pracHce, feedback, and adjustment. Understanding
+the role of the tutor is the first step in the journey to becoming an effecHve tutor. Tutors serve
+as facilitators of student’s learning and must learn how to provide the appropriate amount of
+guidance and structure to the tutor group sessions, without slipping into the role of instructor.
+Too much intervenHon by a tutor can interfere with the group’s ownership of the learning
+process. Too liMle intervenHon can lead to inefficient and unproducHve tutor group sessions. As
+Jodi Korich, Associate Dean for Educa5on February 19, 2024
+3
+a new tutor, you may be learning a set of coaching and facilitaHon skills that are new to you. Be
+paHent with yourself and understand that it may take a liMle Hme for you to become
+comfortable and confident in your new role.
+Below are few Hps to help your tutor group get the most out of their tutor group sessions while
+developing their professional skills under your guidance.

@@ -1,480 +1,70 @@
-Course III – Function & Dysfunction
-Cornell University College of Veterinary Medicine
-
-
-
-
-St-b & Lt, too Tutor Guide
-
-
-
-
-
-
-
-
-
-Case author: Richard Rawson, DVM, Ph.D. Department of Biomedical Sciences
-This exercise is the property of Cornell University College of Veterinary Medicine
- 
-INTRODUCTION
-An outbreak of diarrheal disease in a group of piglets is the basis for exploration of the pathophysiology of the gastrointestinal tract. The focus of the case is motility, digestion, absorption, and secretion of the small and large intestine. Presence of enterotoxigenic E. coli should encourage students to consider gut function down to the molecular level.
- 
-CLINICAL SUMMARY
-case: Enterotoxigenic E. coli (ETEC)
-
-A small cohort of gilts is purchased in order to increase the size of a breeding herd. An outbreak of severe diarrhea is taking the lives of nearly every neonatal piglet. The diagnostic report returned after necropsy of several specimens reveals that the problem is based in the presence of an enterotoxigenic E. coli. Changes in key management practices along with a vaccine have a major impact on the disease outbreak.
- 
-CASE OUTLINE
-
-Page	Date	Scenario	Topics
-
-
-1		30 sows; 6 gilts; all farrowing; gilts’ pigs seem to be dying of diarrheal
-disease	gut morphology: gross, histologic; digestion/absorption of major nutrient classes; GI secretions; diarrhea;
-2		necropsy one pig	dehydration; shock; neural basis of motility; basis of pathogenicity of E. coli; diarrhea;
-3		vaccination strategy	secretory mechanisms; dehydration; colostral antibody absorption; epithelial tissue transport
- 
-CASE OBJECTIVES
-1.	Provide an overview of the organization and function of the alimentary system.
-2.	Describe the epithelial lining of the various parts of the alimentary tract, relating the histology to specializations in function.
-3.	Illustrate the vascular supply and innervation of the GI tract.
-4.	Explain the basis for GI motility and smooth muscle tone, from the subcellular to the gross level. Compare and contrast with cardiac and skeletal muscle.
-5.	Compare and contrast the role of the enteric nervous system and the autonomic nervous systems in regulating GI function.
-6.	Describe the role of each segment of the GI tract in food processing.
-7.	Identify the nature of GI secretions. Why are these secretions needed; how and where are they manufactured; what hormones are involved; what drugs are used to modulate them?
-8.	Explain the secretion, circulation, regulation, and absorption of water and electrolytes in the GI tract. Relate them to clinical signs related to diseases of each of the different segments of the GI tract.
-9.	Describe how each of the major nutrient components of food is digested and absorbed. What is the fate of nutrients that are not adequately digested?
- 
-BIG IDEAS
-•	The body comprises a group of interacting, interrelated, and interdependent systems that form a complex and unified whole. Diagnosis and treatment must take these interactions and interdependencies into account. Many diseases have multi‐system effects.
-•	Formulating a therapeutic plan requires a critical determination of what the patient needs.
-•	Function depends on structure at all levels, from molecules to organisms. Specialized structures produce specialized functions.
-•	Organs respond to injury, but can fail. Cells respond to injury, but can die.
-•	Pathology results when normal physiology "breaks." Diagnosis, then, requires knowing "normal" and determining what's "broken."
-•	Pathogenesis: "telling a story" about the emergence of a patient’s clinical presentation.
- 
-PACING
-This case is designed to be completed in three 2‐hour sessions. The first session (page 1 & 2) will include a discussion about the nature of diarrhea, gut motility and its regulation, absorption, and secretion. Concepts relating to fluid compartments will be revisited. It works well if data pages are distributed to students at the end of the session, allowing students to investigate mechanisms of diarrhea associated with the causitive organism.
-Session two reviews learning issues from the previous sesssion and continues the discussion about gut function, especially in light of diagnostics associated with E. coli. Additional discussion should include the pathologies associated with diarrhea, fluid compartments, and hypovolemic shock. Page 3 can be covered at this time.
-Students should utilize their time during session three to summarize their previous discussions about gut morphology and function, and to be sure that they understand the major learning issues centered around motility, digestion, absorption, secretion, and regulation.
- 
-St‐b & LT, too
-Page 1
-You are visiting Connie and Stef Jorgensen's farm this morning. In addition to thirty older sows, they have six other animals, purchased as bred gilts at the local sale barn. Farrowing started about a week ago.
-The building in which the sows are farrowing is a new pole barn. The farrowing crates are homemade and wooden. They appear to be too long and have solid floors. Many of the one‐ and two‐day‐old piglets are squirting a yellowish diarrhea. The sows seem to have plenty of milk and most of their little piglets are nursing. The piglets from the gilts, on the other hand, are nursing but appear to be a little hungry and underweight. They have lost 27 piglets so far, mostly from the six gilts. The Jorgensens had been using gentamicin in every piglet until recently when the gentamicin seemed not to be effective.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TASKS
-Identify: the 3 sections of the small intestine; the 3 sections of the large intestine; 4 layers of the GI tract; 3 types of epithelial cells in the small intestine.
-Follow the path and fate of three constituents of sow’s milk from their initial consumption until they are combusted for energy in a liver cell: carbohydrate (e.g., lactose); protein (e.g., glycine); lipid (e.g., linoleic acid).
-What are the pathophysiological differentials for the diarrhea?
- 
-WHAT STUDENTS SHOULD BE DISCUSSING
-
-•	Problem list:
-o	myriad management issues, which we won't pursue
-o	diarrhea
-•	Improve vocabulary as it relates to pig production.
-•	Review histology of the intestine
-•	Definition and pathophysiology of diarrhea
-•	Mechanisms of digestion and absorption
-•	gut histology and motility
-•	Function depends on structure at all levels, from molecules to organisms. Specialized structures produce specialized functions.
-•	Pathology results when normal physiology "breaks." Diagnosis, then, requires knowing "normal" and determining what's "broken."
- 
-WHAT YOU NEED TO KNOW
-
-Based on the facilities and management practices of this farm, it seems clear the Jorgensen’s are relative neophytes at this business. Management‐wise, there are a number of things they could do to improve their current predicament, although not right away.
-First, introducing new gilts onto this farm without attempting to immunize them is a mistake. The gilts, naïve to the bacteria on this farm, will not develop relevant colostral immunity in time and, therefore, their offspring will be unprotected from pathogenic bacteria in the environment as neonates.
-Second, wooden crates with solid floors are nearly impossible to sanitize. Metal or vinyl‐covered metal works much better for this purpose. Further, slatted floors allow feces to pass through, preventing a build‐ up of a bacterial load within the crate.
-Third, the long crates allow the sows to move around too much, spreading their feces and unnecessarily exposing their pigs to large numbers of potentially pathogenic bacteria.
-Fourth, although this is somewhat conjecture, the pole barn may not be an ideal facility for farrowing pigs. Unless designed correctly, many of these buildings are either drafty or difficult to heat/cool. Pigs that are too cool have lowered resistance to enterotoxigenic E. coli (ETEC) infection, largely because of the reduced gastrointestinal motility. Sows that are too hot will purposely spread liquids (usually feces) around in the crate as a cooling mechanism. This serves, again, to spread bacteria over a larger area.
-Fifth, indiscriminate use of gentamicin is bound to fail because of bacterial resistance.
-The pigs are dying from the physiologic consequences of diarrhea: metabolic acidosis, dehydration, and cardiovascular collapse. At this point in the case, insufficient information is available to discern the definitive cause of the diarrhea, although E. coli is a very common causative agent. The organism is probably persistent on this farm and the old sows have developed an immunity, which they will pass on to their pigs via colostrum. However, the gilts are naïve to this strain and, therefore, will not pass immunity to their piglets.
-
-•	Students will be studying liver and pancreas next fall (IIIb), at which time they will learn about pancreatic and hepatic function. Emphasis of the current case is on digestive, secretory, and absorptive functions of the mouth, stomach, and intestines without regard to the extra‐ intestinal source of enzymes/bile acids.
- 
-TASKS
-
-Identify: the 3 sections of the small intestine; the 3 sections of the large intestine; 4 layers of the GI tract; 3 types of epithelial cells in the small intestine.
-small intestine: duodenum, jejunum, ileum; large intestine: cecum, colon, rectum; layers of the gut:
-mucosa – consists of epithelium supported by the lamina propria, bounded by the muscularis
-mucosa
-submucosa – consists of connective tissue and blood vessels muscularis – 2 layers of smooth muscle
-serosa – thin squamous epithelium
-epithelial cells: enteroabsorptive cells, goblet cells, gastrointestinal enteroendocrine cells (e.g., enterochromafin cells)
-For extra credit, the gestation period of sows is 3 months, 3 weeks, 3 days. Learning topic: anatomy
-Compare and contrast the digestion and absorption of carbohydrates, proteins, and lipids
-similar to those found in the sows’ milk.
-Recommended reference: Binder, H.J. and Reuben, A. Nutrient digestion and absorption. In: Medical Physiology: A Cellular and Molecular Approach, 2nd ed., Boron, W.F. and Boulpaep, E.L., eds., Philadelphia: Saunders, 2009, p. 949‐968.
-Keep in mind that students will be studying liver and pancreas during Block IIIb in the fall, at which time they will learn about pancreatic and hepatic function. Emphasis of the current task is on digestive and absorptive functions of the mouth, stomach, and intestines. Boron provides very nice coverage of this topic, including figures that illustrate and summarize basic mechanisms.
-What are the pathophysiological differentials for the diarrhea?
-Not knowing the exact inciting cause at this point infuses some ambiguity into our thinking. This should lead to a more robust discussion of the causes of diarrhea that goes beyond the specific mechanisms at work in this case. There are several ways to classify diarrhea. One common scheme lists five causes of diarrhea (Kumar, Abbas, et al. 2005):
-a.secretory b.osmotic c.exudative d.malabsorptive e.deranged motility
-
-In secretory diarrhea, there is a net excess of secretion over absorption by an intact mucosal epithelium. This is brought about by molecular interactions that specifically interfere with ion pumps on the villous and crypt enterocyte cell membranes, via G‐protein coupled receptors and the production of cyclic nucleotide second messengers. On villous enterocytes the effect is shut‐down of sodium chloride co‐
- 
-transport at the luminal cell membrane, reducing passive water resorption. Simultaneously in crypt cells there is continuous activation of the chloride pump and active sodium chloride secretion is promoted, with resultant passive effusion of water. The net effect is an increased solute and water load in the lumen. Hypersecretion is classically induced by a number of bacterial exotoxins, but it may be mediated by various eicosanoids, amines, and cytokines.
-Osmotic diarrhea results from the trapping of water in the lumen by a high concentration of osmotically active molecules. Secretory, exudative, and malabsorptive diarrheas are, fundamentally, osmotic diarrheas. However, “osmotic diarrhea” is listed as a separate cause since agents such as lactulose or magnesium sulfate can induce a diarrhea that does not involve secretory, exudative, or malabsorptive mechanisms.
-Exudative diarrhea results from injury to the mucosa. It can also be produced when chemical mediators of the inflammatory process in the mucosa increase the permeability of mucosal blood vessels.
-Malabsorptive diarrhea results from the osmotic effect of particles of digested food that are not absorbed across the gut epithelium. These particles remain in the lumen of the gut, retain water, and generate diarrhea.
-Permeability diarrhea is also promoted by conditions causing edema of the lamina propria of the mucosa, according to an imbalance of Starling’s forces as they apply in any tissue. Thus, increased venous hydrostatic pressure, reduced plasma oncotic pressure, or lymphatic obstruction may be involved. Under such conditions, there is net movement of water and solutes from the extracellular space to the lumen.
-
-Deranged motility may play a role in some circumstances. When it occurs, the transit of luminal contents is too rapid for effective regulation of fecal water content.
-
-The precise contents of this list might vary from text to text, but this is the list we would like students to learn. It is also the list that Dr. Duhamel includes in his lecture on Diarrhea.
- 
-St‐b & LT, too
-Page 2
-Then you notice a little piglet lying really still in one of the farrowing crates housing a gilt. Picking it up, you conclude that it must have died while you were visiting with the Jorgensens; it is not yet in rigor. There is some pale‐yellowish diarrhea staining the perineum.
-You do a quick necropsy of the piglet on the tailgate of your truck. The piglet's ears and legs feel cooler than the trunk, his mouth is dry, and his eyes are sunk in a little. There is a stomach full of milk but no other gross abnormalities. You plan to submit a couple of live, affected piglets to the Diagnostic Laboratory.
-See tissue sections of gut (stomach, small intestine, large intestine). Digitized glass slides are accessible via the Aperio Slides menu item on course website. Before viewing the slides, predict what you expect to find. After viewing the slides, consider the third task, below.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TASKS
-What, exactly, is killing these pigs?
-Explain how the etiologic agent is affecting these piglets. Tissue sections:
-What histologic structures are necessary for normal function of the gut?
-Taking into consideration the mechanisms of diarrhea, explain the lack of anatomical changes in the tissue sections.
- 
-WHAT STUDENTS SHOULD BE DISCUSSING
-
-•	Problem list
-1.	ETEC diarrhea
-2.	severe dehydration
-3.	death
-•	hypovolemic shock
-•	Review of CV system function and fluid compartments.
-•	The body comprises a group of interacting, interrelated, and interdependent systems that form a complex and unified whole. Diagnosis and treatment must take these interactions and interdependencies into account. Many diseases have multi‐system effects.
-•	What colors the stool?
-•	gut histology, injury, and repair
-•	The mechanism by which ETEC causes diarrhea.
-•	digestion, absorption, secretion, and regulation of gut motility and secretions
-•	Function depends on structure at all levels, from molecules to organisms. Specialized structures produce specialized functions.
-•	Organs respond to injury, but can fail. Cells respond to injury, but can die.
-•	Pathogenesis: "telling a story" about the emergence of a patient’s clinical presentation.
- 
-WHAT YOU NEED TO KNOW
-
-Because of their small size and the virulence of the pathogenic organisms, affected piglets will die within a very short time frame. A full stomach indicates that appetite is good but that the effects of the disease are acute. The diarrhea is pale presumably because gut contents are moving so quickly through the GI tract that there is insufficient time for conversion of constituents of bile (bilirubin) to stercobilin and urobilin.
-Skin turgor is not a useful tool for the assessment of hydration in pigs as it is in other species. However, it is noted that the mouth is dry and the eyes are sunken. With dehydration, blood volume is reduced and blood flow is diverted from the extremities to the core. Appendages (limbs, ears, tail) will be cool due to the intense vasoconstriction that serves to redirect blood flow to maintain effective circulating volume and reduce heat loss.
-The “tissue” of choice for submission to a diagnostic laboratory is a live pig. This will insure that opportunistic organisms do not confuse the picture. Certain strains of non‐pathogenic E. coli normally inhabit the gut and these may numerically overwhelm pathogenic strains in a dead pig (due to the fact that the gut stops moving) OR small numbers of pathogenic strains that were not present in high enough numbers to cause disease in life may multiply post‐mortem. In either case, diagnostic laboratories request that the squeal accompany the pig if at all possible.
-A wide variety of bacterial species are represented in the GI tract, including Streptococci, coliforms, Corynebacteria, Clostridia, and many others. Below the duodenum, the number of resident bacteria increases progressively. The number found in the duodenum, jejunum, and upper ileum, is relatively small. Adhesion of the specific strain of enterotoxigenic E. coli (ETEC) found in this case within the small intestine requires the presence of extracellular proteinaceous appendages called fimbriae or pili. These appendages are highly host specific. ETEC uses one or more fimbrial antigens labeled F4, F5, F6, or F41. Fimbrial adhesions mediate attachment of the E. coli to specific receptors on mucosal epithelial cells. F4 (present in this case) tends to colonize the jejunum and ileum. ETEC produce enterotoxins that change water and electrolyte flux and may lead to diarrhea if the excess fluid from the small intestine is not absorbed in sufficient quantities in the large intestine.
-While ETEC infections are not generally associated with any morphological lesion, the heat stable toxin St‐b has been shown to induce some villous atrophy in pig intestinal gut loops. The exact mechanism is not known but it certainly would not be as marked as in other causes of atrophy, such as TGE.
-Because ETEC induces a biochemical rather than a morphological lesion, it is possible for gross signs of disease to be absent at necropsy.
- 
-TASKS
-
-Task 1 ‐ What, exactly, is killing these pigs?
-To answer “euthanasia solution at the Diagnostic Lab” is correct but sassy. It may be a “knee‐jerk” or naïve response for students to suggest that the pigs are dying of an infection or a bacterial toxin, because we all “know” that diarrhea is caused by infections of one sort or another. Students may want to defer answering this Task until they have come to understand the underlying mechanism of the diarrhea in this case.
-We know that the toxin associated with ETEC binds to an enterocyte receptor. There is no massive inflammatory response and no morphologic changes (aside from some possible villous atrophy). Death is a direct consequence of fluid loss. At work is a pathology of the physiology, not of the anatomy. Now it is left to discuss the consequences of this fact.
-a.	We don’t know the exact osmotic composition of the diarrhea, but it would be reasonable to assume that the diarrhea has resulted in an isotonic fluid loss. This leads to extracellular volume depletion, contraction of the extracellular fluid volume, and decreased plasma (blood) volume. Being an isotonic fluid loss, the volume of the intracellular space is unaffected. Decreased water in the ISF is detectable as decreased skin turgor (difficult to evaluate in the pig) and sunken eyes (easy to evaluate). Loss of blood volume manifests as cool extremities due to potent vasoconstriction and, because of decreased cardiac output, prolonged CRT and lower blood pressure.
-b.	Poor perfusion stemming from decreased blood volume leads to an increase in anaerobic metabolism and production of lactic acid, resulting in a metabolic acidosis. Loss of large quantities of HCO3‐ via the feces also contributes to the acidosis. When severe, acidosis can produce dysrhythmias and reduced contractility, exacerbating the poor cardiac output that already exists owing to the low blood volume.
-c.	Decreased cardiac output will eventually affect brain function. Depression, including respiratory depression, will be in evidence. Because it is depressed, the respiratory system, rather than compensating for the acidosis, is contributing to the acidosis and its consequences. As blood volume and blood pressure continue to decline, perfusion of the brain and heart will be insufficient to support even minimal function.
-Although arterial blood gas analysis would never be performed under circumstances such as those described in this case, it would be worthwhile for students to predict the acid‐base status of the piglets. A potential treatment plan is concealed in the analysis of the pathologic consequences of the diarrhea. Isotonic fluid loss is the main problem. Therefore, replacing isotonic fluid quickly and efficiently will provide effective treatment. Since absorptive functions are minimally affected, a Na+/glucose/amino acid mixture in water that takes advantage of multiple epithelial transporters is the treatment of choice. Learning topic: shock, dehydration
-Task 2 ‐ Explain how the etiologic agent is affecting these piglets.
-“Any cellular or pathologic process that increases intracellular cAMP concentration results in activation of PKA, which phosphorylates the regulatory domain of CFTR. This phosphorylation results in opening of the CFTR, enhancing Cl‐ secretion. Examples of important mediators or toxins that increase cAMP and cause Cl‐ secretion are pro‐inflammatory prostanoids, such as PGE2, and pathogenic bacterial toxins, such as cholera toxin and Escherichia coli heat‐labile enterotoxins.”
- 
- 
-
-From: Moeser AJ, Blikslager AT. Mechanisms of porcine diarrheal disease. J Am Vet Med Assoc 231: 56-67, 2007.
-
-LT-II binds a ganglioside receptor on epithelial cell surfaces, activating adenylyl cyclase, increasing cAMP and activation of PKA, which phosphorylates the CFTR. The net result is opening of the CFTR, greatly enhancing Cl- (and water) secretion.
-The action of STb is not understood as well, but STb is thought to stimulate secretion by activating enteric nerves, stimulating release of 5HT and PGE2. This, in turn, activates a neural secretory reflex arc via release of secretory stimuli, mainly VIP, which attach to receptors on both villus and crypt enterocytes, activating adenylyl cyclase and inducing cAMP-mediated alterations of ion transport (inhibition of absorption in villus cells and stimulation of secretion in crypt cells).
-Task 3 ‐ Tissue sections:
-What histologic structures are necessary for normal function of the gut?
-The gut needs: epithelial cells with intact tight junctions (and polarity) and basement membrane; a functional enteric nervous system; lacteals and capillaries; enteroendocrine cells. Crypts and villi should be evident. At a more ultrastructural level, (some) epithelial cells need a brush border and an unstirred water layer with an appropriate composition. Cells should have normal absorptive and secretory mechanisms (biochemical and structural).
- 
-Describe the normal and abnormal features in the tissue sections.
-These are morphologically normal tissue sections.
-Relate your observations to the diarrhea.
-There are no histologic lesions. The significant lesions in this case are entirely biochemical.
- 
-TEST REQUESTED: Aerobic Bacterial Culture
-**FINAL**
-Specimen Type: Jejunum
-E. COLI ENCAPSULATED
-Quantity = Many
-
-TEST REQUESTED: E. coli DNA Probe, Diagnostic
-**FINAL**
-Specimen Type: Bacterial Isolate
-
-For K99
-Result = Negative For F4
-Result = Positive For F41
-Result = Positive For STa
-Result = Negative For ST-b
-Result = Positive For LT
-Result = Positive
-
-
-DISCIPLINE: Virology
-TEST REQUESTED: Viral FA
-**FINAL**
-Specimen Type: Ileum and Colon; Rectum; Large Intestine and Lymph Nodes Code = Transmissible Gastroenteritis
-Result = Negative
-
-
-
-
-
-
-
-
-TASKS
-
-Gastrointestinal viruses in various species typically either destroy villous epithelial cells (e.g., rotavirus in pigs) or destroy crypt epithelium (e.g., parvovirus in dogs). For these two types of viruses and for the E. coli in this case, predict a) clinical signs, b) cause of the diarrhea, c) course of the disease, and d) relative mortality risk.
- 
-TASKS
-
-Gastrointestinal viruses in various species typically either destroy villous epithelial cells (e.g., rotavirus in pigs) or destroy crypt epithelium (e.g., parvovirus in dogs). For these two types of viruses and for the E. coli in this case, predict a) clinical signs, b) cause of the diarrhea, c) course of the disease, and d) relative mortality risk.
-
-An extensive appreciation of the viruses or associated diseases is not necessary to undertake this task. Students must only recognize the effects that the viruses have on specific cell types (given in the task) and be able to deduce the subsequent consequences. (Note: some of the information below is for tutor background and is not necessarily required for students to address this task.)
-
-Virus destroying villus tips: (Rotavirus is a good example.)
-
-•	Cause of the diarrhea: Villus epithelial cell function includes both digestion (via brush border enzymes) and absorption of substrate. As villus cells are lost, a maldigestion/malabsorption diarrhea develops that is profuse.
-•	Clinical signs: Clinical signs are similar to those in the present case and are directly attributable to malnutrition and fluid loss associated with marked villous atrophy: malnutrition, dehydration, weakness, depression, and, potentially, death.
-•	Course of the disease (onset, duration): Onset of clinical signs will be relatively rapid after infection (1-4 days). Duration of the infection is limited, in principle, because epithelial cells infected by virus will be shed and replaced through normal mechanisms over the next 2-3 days.
-•	Relative mortality risk: Mortality risk is determined by the resources available to the patient (e.g., body fat reserves) and the level of medical intervention. Because of their small size and low energy reserves, once signs develop in little pigs, relatively high mortality rates can be expected. In contrast, older pigs or calves with rotavirus are generally at lower risk of death.
-
-Virus destroying crypts: (Parvovirus in dogs is a good example.)
-
-•	Cause of the diarrhea: Normally, villus epithelial cells turn over at a relatively constant rate, requiring replacement as crypt cells migrate up the villus. When viral disease destroys the crypt epithelium, such replacement of villus epithelium is delayed resulting in denuded villus epithelium. As cells are lost and villous atrophy occurs, a maldigestion/malabsorption diarrhea develops that is profuse
-•	Clinical signs: Clinical signs are similar to those in the present case and are directly attributable to malnutrition and fluid loss associated with marked villous atrophy: malnutrition, dehydration, weakness, depression, and potentially, death. Clinical signs may be more severe than in the case of rotavirus infection due to loss of the barrier function of the gut epithelium (both crypts and villi).
-•	Course of the disease (onset, duration): Onset of clinical signs will be relatively rapid after infection, but slower than in the case of a virus attacking villus epithelium. Duration
- 
-of disease will be longer, though, since cells that would normally replace villus cells have been destroyed.
-•	Relative mortality risk: Because of the longer course of the disease associated with (i) destruction of the crypts and (ii) loss of the barrier function of the epithelium, recovery is delayed. Due to the prolonged course of the disease and severity of morphologic injury, fluid loss due to diarrhea has a potentially larger impact, increase the risk of mortality.
-
-ETEC:
-
-•	Cause of the diarrhea: The diarrhea is principally secretory in nature and does not involve morphologic changes in gut epithelium.
-•	Clinical signs: Clinical signs are consistent largely with fluid loss, rather than malnutrition.
-•	Course of the disease (onset, duration): Onset of disease is rapid, with infection usually occurring between the time of birth and first encounter with the teats of the sow. Diarrhea can be observed within 2-3 hours of birth. Duration is generally quite short due the catastrophic effects of the rapid loss of extracellular fluid required for cardiovascular function.
-•	Relative mortality risk: Severity of disease and mortality rate are associated with the level of maternal immunity and environmental conditions (e.g., cold environment). Due to severe dehydration, mortality is expected to be high, especially without medical intervention.
- 
-ANTIMICROBIAL SUSCEPTIBILITY MIC
-TEST REQUESTED: Antimicrobial Susceptibility MIC
-**FINAL**
-Specimen type: Jejunum Organism(s) tested:
-B402.93--E. COLI ENCAPSULATED (MANUAL ENTERICS)
-AMPICILLIN	Susceptib
-TICARCILLIN	Susceptib
-TIMENTIN	Susceptib
-AUGMENTIN	Susceptib
-CEFTIOFUR	Susceptib
-CEFTIZOXIME	Susceptib
-CEPHALOTHIN	Mod.Sensit
-AMIKACIN	Susceptib
-GENTAMICIN	Resistant
-CIPROFLOXIN	Susceptib
-ENROFLOXIN	Susceptib CHLORAMPHENICOL Susceptib TETRACYCLINE	Resistant
-TRIBRISSEN	Susceptib
-TYLOSIN	Resistant
- 
-E93‐9075A 03 May PATH CASE REPORT FOR C5206
-
-GROSS DESCRIPTION:
-This is the carcass of a 1.1 kg, 3‐day‐old, male, Yorkshire/Landrace piglet in fair body condition with no autolysis. The entire spiral colon is gas‐distended and filled with yellow, watery contents. There are no other gross lesions noted.
-
-GROSS FINDINGS:
-Spiral colon: fluid contents
-
-
-HISTOLOGICAL FINDINGS:
-
-STOMACH: There are multiple foci of neutrophilic infiltration in the glands of the stomach, mostly in the cardia. Occasional glands contain necrotic debris. In the lamina propria there is a diffuse infiltrate of lymphocytes and plasma cells. There are normal lymphoid aggregates in the submucosa. In one area of stratified epithelium there is a larger aggregate of neutrophils associated with bacterial colonies.
-DUODENUM, JEJUNUM, ILEUM, CECUM, AND COLON: NSL LIVER, LUNG, KIDNEY: NSL
-
-GROSS DIAGNOSIS:
-Enteropathy, cause unknown
-
-HISTOLOGIC DIAGNOSIS:
-Stomach: Moderate subacute gastritis
-
-
-FINAL DIAGNOSIS:
-Euthanasia
-Colibacillosis, presumptive
-
-Comment: Many heavily encapsulated E.coli were isolated from the GI tract. This fact in conjunction with the lack of any pronounced histologic lesions in the small intestine makes an enterotoxigenic form of E. coli most likely. The relationship of the gastritis to the herd problem of diarrhea is not clear. However, it is thought to be a coincidental lesion.
- 
-St‐b & LT, too
-Page 3
-When the test results arrive from the Diagnostic Laboratory, you call the Jorgensens to discuss an appropriate strategy. You recommend a vaccine to boost the amount of immunoglobulins passed in the gilts' milk. You caution them that a vaccine apart from some management changes will not provide a complete answer. You also advise them against the indiscriminate use of the gentamicin to treat every pig, sick or not.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TASKS
-What do the piglets need if they are going to survive? How can you provide what they need? Explain exactly how your treatment is going to help them.
-Pigs are born with very little, if any, immunity to disease but obtain such via the colostrum within hours of birth. Explain why immunoglobulins, which are proteins, that is, targets of digestive processes, can be absorbed into the blood.
- 
-WHAT STUDENTS SHOULD BE DISCUSSING
-•	review of CV function and shock
-•	colostral immunoglobulins and gut closing
-•	summarize the entire case
-•	Formulating a therapeutic plan requires a critical determination of what the patient needs.
- 
-WHAT YOU NEED TO KNOW
-
-Maternal vaccination is the most effective way of controlling this disease. Commercial vaccines are available. In the U.S., a common method of vaccinating the gilts involves the culturing of the organism in milk that is subsequently fed to the gilts.(Fairbrother, J. M. and Gyles, C. L., 2006) Immunoglobulins then reach the pigs via the colostrum.
- 
-TASKS
-Task 1 — CV function & shock:
-In reality, treating the piglets in this case is out of the question, because the economics of the swine industry won't support high veterinary costs. Estimating the value of a piglet is difficult, but... hogs sell for about $0.75 a pound and piglets weigh 2-3 pounds. The biggest risk in treating the pigs is the likelihood that their growth rates will be stunted, reducing profits significantly.
-
-If we were to treat... These pigs have little or no problem with absorption. Therefore, if we can get enough water into the gut, it will be absorbed, preventing dehydration and death. By combining water with Na+, glucose, and an amino acid (glycine), water absorption can be enhanced because this combination of ingredients can take advantage of multiple epithelial co-transport mechanisms. Enhanced solute absorption translates into increased water absorption as water follows the solute across the epithelium.
-
-In fact, this strategy is the basis for oral rehydration solutions that are used not only in veterinary medicine, but across the developing world to treat potentially fatal diarrheas in people, including cholera.
-
-Task 2 — colostrum:
-Transfer of immunity: In ungulate species such as cattle, sheep, goats and pigs, the young are born essentially agammaglobulinemic and rely entirely on uptake of colostral immunoglobulins, especially IgG, for systemic immune protection. The intestinal uptake in the immediate period after birth is transient and nonselective in species such as cattle, sheep, goats, swine and others. The intestinal cells become unable to absorb macromolecules within 24–36 h after birth (in pigs, this period may be much longer) probably as a result of developmental processes occurring in the enterocytes. The process whereby the intestinal cells gradually stop absorbing macromolecules is termed closure. Before closure, the enterocytes will nonselectively absorb large molecular weight proteins and other molecules. Macromolecules so transported are released into the lamina propria and then are absorbed into the lymphatic or portal circulation. Failure of passive transfer of immunity in these species is defined as occurring when a threshold concentration of IgG is not reached before closure occurs. The maternal IgG in the calf’s blood gradually declines over the initial month after birth, and has a half-life of approximately 16 days.
-
-Site of absorption: Morphologically, the main site of colostral absorption is the middle- to-caudal region of the small intestine. Although receptor-mediated transport of colostral IgG has been suggested, micropinocytotic transport is the predominant mechanism by which immunoglobulins are absorbed. There is no evidence for paracellular transport.
-Intestinal closure occurs as more mature populations that are incapable of transporting large proteins replace fetal intestinal epithelial cells.
- 
-Contents of colostrum: Besides providing essential immunity, colostrum also has a purgative effect that aids in the expulsion of meconium. Colostrum also contains important nutrients (fat, protein, lactose, vitamins, and minerals) as well as other antimicrobial factors. (Most physiology texts will not contain the following detail. It is provided for tutor background.) The latter includes iron-binding antimicrobial protein lactoferrin, antibacterial enzyme lactoperoxidase, antibacterial and lytic enzyme lysozyme, oligosaccharides that function as analogues of microbial ligands on mucosal surfaces, antimicrobial heat stable peptides (defensins), and soluble CD14. In addition, colostrum and milk contain leukocytes, including activated neutrophils, macrophages and lymphocytes. Colostrum also contains cytokines and growth factors that may affect neonatal intestinal development, as well as intestinal immune responses to disease in adults.
-
-	fat	protein	lactose
-colostrum	7%	14%	2.5%
-milk	4%
-3.5%	5%
-All measurements are approximate since various studies report different numbers.
- 
-RESOURCES
-
-•	Diseases of Swine (see pages 724; 728-733
-•	Diseases of Swine — ETEC (excerpted)
-•	Mechanisms of porcine diarrhea
-•	Robbins and Cotran Pathologic Basis of Disease. 9th ed.
-•	St-b and LT, too - commentary on tissue sxn
-
-
-
-This case is based on MR #841543 (Loy) and Pathology case #N92-155, involving a two- day-old, live piglet delivered to the Large Animal Clinic at the College of Veterinary Medicine for necropsy examination. Although the storyline is largely developed out of the experiences of the author, the signalment, essential history, and laboratory data are derived from the case record.
-
-CASE SUPPORTING MATERIALS:
-Laboratory data, including bacterial culture and sensitivity, E. coli DNA probe diagnostics, fluorescent antibody test for TGE, and necropsy and histopathology reports, are based on MR #841543 (Loy). Histopathology slides were obtained from unrelated necropsy specimens.
-
-Resources not included in paper case:
-Histopathology slides: gut
-8 - slides: stomach (cardia, fundus, pylorus), duodenum, jejunum, ileum, cecum, colon
-
-SUGGESTED CONSULTANTS:
-Dr. Gerald Duhamel Dr. Antonia Jordan Dr. Kenny Simpson
-
-GENERAL REFERENCES:
-Fairbrother, J.M. and C.L. Gyles. Escherichia coli infections. In: Diseases of Swine, 9th ed., Straw, B.E., J.J. Zimmerman, S. D'Allaire and D.J. Taylor, eds., Ames, IA: Blackwell, 2006, p. 639- 674.
-Gelberg, H. B. Alimentary system. In: Thomson’s Special Veterinary Pathology, 3rd ed., McGavin,
-M. D., W. W. Carlton, and J. F. Zachary, eds. St. Louis: Mosby, 2001, pp. 1-79.
-Mengeling, W. L. Porcine parvovirus. In: Diseases of Swine, 9th ed., Straw, B. E., J. J. Zimmerman,
-S. D’Allaire, and D. J. Taylor, eds. Ames, IA: Blackwell, 2006, pp. 373-385.
-Saif, L. J. and K. Sestak. Chapter 30: Transmissible gastroenteritis and porcine respiratory coronavirus. In: Diseases of Swine, 9th edition. Straw, B. E., J. J. Zimmerman, S. D'Allaire, and D. J. Taylor, eds. Ames, IA: Blackwell, 2006, pp. 489-516.
-Steel, A. and M. A. Hediger. The molecular physiology of sodium-and proton-coupled solute transporters. News Physiol. Sci. 13: 123-131, 1998.
- 
-Thomson, J. R. Chapter 3: Diseases of the digestive system. In: Diseases of Swine, 9th edition. Straw, B. E., J. J. Zimmerman, S. D’Allaire, and D. J. Taylor, eds. Ames, IA: Blackwell, 2006, pp. 37-55.
-
-RESOURCE ARTICLES (included with the case):
-Moeser, A. J. and A. T. Blikslager. Mechanisms of porcine diarrheal disease. J. Am. Vet. Med.
-Assoc. 231: 56-67, 2007.
-Zimmerman, J.J., Karriker, L.A., Ramirez, A., Schwartz, K.J. and Stevenson, G.W., eds. Diseases of Swine. 10th ed. Ames, IA: Wiley-Blackwell, 2012, pp 724-733.
- 
-Course III Knowledge Structure
-
-The following 5-point outline provides the vital structure for the knowledge you will acquire in Block III. Using this structure, you will build a database of knowledge that is transferrable (useful) no matter the body system or species. This knowledge structure should be used to organize your studying and the way you think about clinical cases, and as a means of self-assessment.
-
-Whole animal level
- What “services” does this system provide for theanimal?
- What clinical signs are commonly associated with dysfunction of thissystem?
-System/organ level
- What are the organs in this system?
- What are the functions of the organs and tissues in this system?
- What control mechanisms(s) exist to regulate the functions(s) of thissystem?
- What factors (internal and external) can perturb the control mechanism?
- What are the consequences of loss of control of thissystem?
- How is the function of this system related to the function of other systems?
- How does this organ handle both exogenous and endogenous compounds?
-Tissue/cell level
- What is the specialized structure of each of the various cell types in this organ?
- How are cells in this system specialized (structurally and functionally) to carry out the functions of the system?
- How are the different cell types organized (spatially and/or temporally) with respect to one another?
- What functions do the specialized cell types and the organization of those cell types confer on the organ?
-Injury/Repair
- What are the various ways in which this system can undergoinjury?
- What lesions are commonly encountered and what is the etiology and pathogenesis of each?
- How do the tissues in this organ respond to injury?
- How do uninjured cells respond in the presence of injured cells in this organ?
- How is the function of this organ affected by injury to its cells?
- How are other systems affected by cellular injury in this organ?
- What are the clinical consequences of injury to this organsystem?
- How is cellular injury (organ dysfunction) in this organ detectedclinically?
- What is the prognosis for organ or whole animal function given a specific injury to thissystem?
-Modulation
- What subcellular functions of the cells in this system are subject to modulation by exogenous and endogenous factors (drugs, toxins, neurotransmitters, hormones, etc.)?
- How is system function affected by modulation of subcellularfunctions?
- What factors enhance or impede the access of pharmacologic agents to the cells in this system?
-
-55
+Summary
+Polycomb repressive complex 1 (PRC1) catalyzes lysine 119 monoubiquitylation on H2A (H2AK119ub1) and regulates pluripotency in embryonic stem cells (ESCs). However, the mechanisms controlling the binding of PRC1 to genomic sites and its catalytic activity are poorly understood. Here, we show that Fbxl10 interacts with Ring1B and Nspc1, forming a noncanonical PRC1 that is required for H2AK119ub1 in mouse ESCs. Genome-wide analyses reveal that Fbxl10 preferentially binds to CpG islands and colocalizes with Ring1B on Polycomb target genes. Notably, Fbxl10 depletion causes a decrease in Ring1B binding to target genes and a major loss of H2AK119ub1. Furthermore, genetic analyses demonstrate that Fbxl10 DNA binding capability and integration into PRC1 are required for H2AK119 ubiquitylation. ESCs lacking Fbxl10, like previously characterized Polycomb mutants, cannot differentiate properly. These results demonstrate that Fbxl10 has a key role in regulating Ring1B recruitment to its target genes and H2AK119 ubiquitylation in ESCs.
+Graphical Abstract
+Graphical Abstract
+Graphical abstract undfig1
+Highlights
+► Fbxl10 binds to most CpG islands in ESCs ► Fbxl10 recruits Nspc1 and Ring1B to CpG islands ► The Fbxl10, Nspc1, and Ring1B complex is required for H2A monoubiquitylation ► Fbxl10 is required for proper ESC differentiation
+Introduction
+Polycomb proteins (PcGs) play important roles in stem cell self-renewal and differentiation. Their deregulation or aberrant activity has been tightly linked to cancer development (Bracken and Helin, 2009). PcGs generally form multisubunit chromatin-modifying complexes to maintain transcriptional repression in multicellular organisms. Two main complexes, namely Polycomb repressive complexes 1 and 2 (PRC1 and PRC2), have been described. PRC2 methylates histone H3 on lysine 27 (H3K27). PRC1 was originally purified from D. melanogaster embryos whose core components include Polycomb (Pc), Polyhomeotic (Ph), Posterior sex combs (Psc), and dRing/Sce (reviewed in Schuettengruber and Cavalli, 2009; Simon and Kingston, 2009). A PRC1-like complex was found to monoubiquitylate histone H2A on lysine 119, catalyzed by dRing in D. melanogaster and Ring1B in mammals (Wang et al., 2004). Therefore, H2A monoubiquitylation has been viewed as a critical component in mediating PcG silencing of developmental control genes (Endoh et al., 2012; Schoeftner et al., 2006; Wang et al., 2004). Genome-wide mapping studies in both D. melanogaster and mammals show an extensive overlap in genome binding sites between PRC2 and PRC1 (Boyer et al., 2006; Bracken et al., 2006; Ku et al., 2008; Lee et al., 2006; Schwartz et al., 2006). Because Pc and its mammalian orthologs (CBXs) bind to H3K27me3, and some studies have shown that chromatin binding of PRC1 is dependent on PRC2, it has been suggested that H3K27me3 is required for PRC1 binding to target genes (reviewed in Sparmann and van Lohuizen, 2006). However, several results, including the recent demonstration that Ring1B-chromatin association and global levels of monoubiquitylated lysine 119 on H2A (H2AK119ub1) are preserved in PRC2-deficient cells (Leeb et al., 2010; Tavares et al., 2012), suggest that this hierarchical recruitment model might be too simplified, and that PRC1 can act independently of PRC2.
+A recent systematic proteomics study led to the classification of six major groups of PRC1 complexes, each containing a distinct PCGF (Psc ortholog) subunit (Gao et al., 2012). Each of these groups can be categorized into canonical and noncanonical PRC1 complexes, depending on the presence or absence of a CBX subunit. Only PCGF2/MEL18 and PCGF4/BMI1 are incorporated into canonical PRC1. In contrast, all six PCGF proteins can assemble into noncanonical PRC1 complexes, lacking a CBX subunit and composed of RING1B-PCGF in combination with other chromatin regulators (Gao et al., 2012). Given that a CBX subunit is an integral part of the hierarchical recruitment model, i.e., binding of PRC1 to H3K27me3, it can only apply to canonical PRC1 complexes. Therefore, the recruitment mechanisms leading to the binding of noncanonical PRC1 complexes to DNA still remain elusive.
+Chromatin immunoprecipitation sequencing (ChIP-seq) in mouse embryonic stem cells (ESCs) demonstrated that almost 97% of PRC2 target genes are associated with annotated CpG islands or similar CG-rich regions. Similarly, Ring1B binding also positively correlates with PRC2-positive CpG islands (Ku et al., 2008). The Fbxl10/Kdm2b-containing PRC1 (PRC1-Fbxl10 complex), known as the dRing-associated factor (dRAF) complex in D. melanogaster (Lagarou et al., 2008) and the BCOR complex in mammals (Gearhart et al., 2006), has been shown to be important for H2A monoubiquitylation. Interestingly, Fbxl10 contains a CXXC domain, known to have a strong affinity for CpG-rich DNA sequences (reviewed in (Deaton and Bird, 2011), and its homolog Fbxl11/Kdm2a has been shown to bind to CpG islands throughout the genome (Blackledge et al., 2010). In Drosophila, dKDM2 has a synergistic effect with PcG in Hox gene silencing (Lagarou et al., 2008). However, the role of mammalian Fbxl10 in regulating H2A monoubiquitylation and PcG-mediated transcriptional silencing is not clear. In this study we have analyzed the relationship between Fbxl10, Ring1B recruitment, and H2AK119 monoubiquitylation in mouse ESCs.
+Results
+Fbxl10 Is Part of a Noncanonical PRC1, which Is the Major E3 Ligase Complex for H2A Monoubiquitylation in Mouse ESCs
+To characterize the relationship between FBXL10 and PRC1 components, we expressed epitope-tagged FBXL10 in 293FT cells, and by using immunoprecipitation (IP), we confirmed that FBXL10 can bind to the PRC1 members RING1B, NSPc1, and RYBP, but not to CBX7 (Figure 1A). Next, we performed reciprocal endogenous coimmunoprecipitation (coIP) assays using nuclear extracts prepared from mouse ESCs and antibodies specific for Fbxl10, Ring1B, and Nspc1. As shown in Figure 1B, the three proteins interact weakly with the PRC1-associated protein Rybp. Interestingly, only Ring1B interacts with Cbx7. Thus, Fbxl10, Ring1B, and Nspc1 form a distinct complex in vivo. These results are in agreement with recent biochemical analyses showing that these proteins can interact when overexpressed (Gao et al., 2012). In contrast, overexpressed Fbxl11 does not interact with any tested PRC1 proteins (Figure S1A available online).
+
+Figure 1 Fbxl10 Forms a Noncanonical PRC1 Complex, which Is Essential for Global Levels of H2AK119ub1 in ESCs
+Show full captionFigure viewer
+To decipher the biological and biochemical roles of Fbxl10, we downregulated Fbxl10 expression in ESCs using short hairpin RNAs (shRNAs) specific for Fbxl10. We identified two Fbxl10 shRNAs that strongly inhibit Fbxl10 expression without leading to detectable changes in the expression of the PRC2 component, Ezh2, the PRC1 component, Ring1B (Figure 1C), or the Fbxl10 homolog, Fbxl11 (Figure S1B). Moreover, the expression of the pluripotency transcription factors Oct4 and Nanog and the proliferation of ESCs were not affected by depletion of Fbxl10 (Figures S2A and S2B). The knockdown efficiency was further confirmed at the protein level by western blotting (WB) (Figure 1D and Figure S1C). Unlike the knockdown of Rybp (Tavares et al., 2012), the loss of Fbxl10 does not affect the stability of Ring1B, though Nspc1 levels are slightly decreased (Figure 1D).
+Ring1B is the catalytic subunit of PRC1 that catalyzes H2AK119ub1 (Buchwald et al., 2006; Wang et al., 2004). To address the contribution of mammalian Fbxl10 to H2A monoubiquitylation, we tested the levels of H2AK119ub1 in wild-type (WT) ESCs as well as in ESCs depleted of various PRC1 subunits. In agreement with other studies, we found that H2AK119ub1 levels are significantly reduced in Ring1b−/− cells (Leeb and Wutz, 2007) and are unchanged when Cbx7 is depleted (Figure 1E). However, depletion of Fbxl10 and Nspc1, but not Fbxl11, led to a significant decrease in H2AK119ub1 levels (Figure 1E; Figures S1B and S1D). As a control for these experiments, we performed complementation experiments by reintroducing human FBXL10, which is not a target of the mouse-specific Fbxl10 shRNAs, and showed that H2AK119ub1 is completely restored (Figure 1F). Moreover, the role of the PRC1-Fbxl10 complex in H2A ubiquitylation is not ESC specific, because the depletion of Fbxl10 in primary mouse embryonic fibroblasts also led to a strong decrease in global levels of H2AK119ub1 (Figure S1E). Taken together, these findings demonstrate that Fbxl10 contributes significantly to H2AK119 monoubiquitylation. Given that Cbx7 has recently been shown to be the major Cbx component of PRC1 in ESCs (Morey et al., 2012), these results also indicate that it is the PRC1-Fbxl10 complex, rather than canonical PRC1, that catalyzes most of the monoubiquitylation of H2AK119 in ESCs.
+Fbxl10 Promotes H2A Monoubiquitylation Dependent on a C-Terminal Nspc1-Binding Region
+To further characterize the interaction between FBXL10 and proteins in the PRC1 complex, we expressed WT and several mutant versions or FBXL10 in 293FT cells (Figure 2A). Via IP of the overexpressed proteins, we found that the binding to Nspc1 was dependent on 200 amino acids in the C-terminal region, which contains the leucine-rich region (LRR). Although the LRR is conserved in Fbxl11, we did not detect any interaction between Fbxl11 and Ring1B or Nspc1 (Figure S1A). This suggests that specific amino acids in the C-terminal region of Fbxl10 contribute to the assembly of the PRC1-Fbxl10 complex (Figure 2A). Interestingly, we also observed a weaker interaction between Fbxl10 mutated in the CXXC domain and Nspc1 (Figure 2A), indicating that the stability of the complex may be compromised in the absence of DNA binding.
+
+Figure 2 FBXL10 Recruits RING1B and NSPc1 to Promoters and Promotes H2AK119ub1 Dependent on its C-Terminal Region
+Show full captionFigure viewer
+To investigate whether artificial tethering of FBXL10 to a heterologous promoter could lead to H2AK119 ubiquitylation, we expressed WT FBXL10 and mutant ΔLRR, fused to the DNA-binding domain of Gal4, in a tetracycline-dependent manner in T-Rex-293 cells containing a luciferase reporter gene expressed under the control of a TK promoter and five Gal4 DNA-binding sites. The expression of Gal4-FBXL10 WT (Figure 2B) results in the recruitment of RING1B and NSPc1, but not of EZH2, to DNA. This recruitment leads to a strong increase in H2AK119ub1 associated with the promoter (Figure 2C), whereas other histone modifications such as H3K4me3 and H3K36me2 are not affected (data not shown). In contrast, although the Gal4-FBXL10 ΔLRR fusion protein also binds to the target promoter, it fails to recruit RING1B and NSPc1 (Figures 2D and 2E). Consistent with this, no increase of H2AK119ub1 was observed (Figure 2E). Taken together, this shows that FBXL10 binding to a promoter is sufficient for the recruitment of RING1B and NSPc1 and for the efficient monoubiquitylation of H2AK119.
+Genome-wide Localization of Fbxl10 in ESCs
+Previous data have shown that Fbxl10 binds nonmethylated CpG sequences in vitro (Koyama-Nasu et al., 2007); however, the bona fide target genes of Fbxl10 have not been reported. To determine the genome-wide location of Fbxl10 in mouse ESCs, we generated a ChIP-grade polyclonal antibody for Fbxl10. The specificity of this antibody was confirmed by ChIP-quantitative PCR (qPCR) analyses in Fbxl10-depleted ESCs (Figure S3C). Meanwhile, we also established mouse ESCs expressing FLAG-hemagglutinin (HA)-tagged Fbxl10 (FH-Fbxl10) close to physiological levels of Fbxl10 (Figure S3A). The expression of FH-Fbxl10 did not change the morphology or the expression of pluripotency markers (Figures S3A and S3B). This cell line and WT E14 were used to determine the genome-wide locations of FH-Fbxl10 and endogenous Fbxl10, respectively.
+The mapping of Fbxl10 showed that it is mainly enriched around transcription start sites (TSSs) (Figure S3D). Gene annotation of Fbxl10 binding sites, using a false discovery rate of 0.1, showed that FH-Fbxl10 binds in the vicinity of the TSS of 16,412 genes (Table S2). ChIP-qPCR analyses using FLAG antibody in the FH-Fbxl10 and parental control cells confirmed the enrichment of FH-Fbxl10 on the identified targets genes (Figure 3A). In addition, ChIP experiments using the Fbxl10-specific antibody in WT ESCs also showed that endogenous Fbxl10 is significantly enriched at the promoters of the same target genes (Figure 3B). The normalized tag density of ChIP-seq data (tags per million, TPM) also revealed that endogenous Fbxl10 is significantly enriched on Hox gene loci, similarly to ectopic FH-Fbxl10 (Figure S3E). The comparison of the two ChIP-seq data sets using heat maps showed that they display a very similar pattern despite their different densities (different sequencing depth as shown by read counts in Table S1) (Figure 3C). Interestingly, the distribution of Fbxl10 is also very similar to the published binding profile of Fbxl11 (Blackledge et al., 2010) (Figure 3C).
+
+Figure 3 Fbxl10 Binds to CpG Islands
+Show full captionFigure viewer
+Fbxl10 Binds to CpG Islands throughout the Genome
+To examine whether Fbxl10 specifically locates to CpG islands in ESCs, we compared the enriched sites with CpG island elements defined by the UCSC Genome Browser. By analyzing the tag-density enrichment across the TSSs of all CpG island genes (CGI genes) and non-CGI genes for FH-Fbxl10, we found that the majority of Fbxl10 target genes contain a CpG island (n = 13,368) (Figures 3C and 3D). Genes were categorized as either CGI or non-CGI genes depending on whether the gene body (including the area 5 kb upstream of the TSS) overlapped with a UCSC-annotated CpG island or not. Some target genes are classified as non-CGI genes, but they still contain CpG-rich sequences just below the strict threshold for UCSC-annotated CpG islands. For avoiding redundancy, where a CpG island overlapped the TSS of multiple genes or transcripts, only one was recorded. The densities in Figure 3D are scaled according to the counts in each sample (TPM). It is worth noting that the tag density for Fbxl10 over all targets is closely associated with CpG islands, regardless of whether they are at TSSs, transcription end sites, or intergenic regions (Figure S4A). To further validate the preferential binding on CpG islands, we performed ChIP-qPCR analyses using different primers covering CpG islands or non-CpG islands on a random target gene, Bdnf. The results confirmed that Fbxl10 is specifically enriched at the CpG islands where significant peaks are detected by ChIP-seq (regions A, B, and C; Figure 3E).
+As most CpG islands are unmethylated in ESCs, we next investigated the relationship between Fbxl10 occupancy and methylated cytosine (mC) mapped in our previous work (Williams et al., 2011). We found that Fbxl10 and mC distribution are inversely correlated (Figure S4B). To further investigate this observation, we differentiated ESCs to neurons as described (Bibel et al., 2007) and performed Fbxl10 ChIP experiments. The CpG island of Bdnf remains unmethylated, but the islands associated with Lefty1 and Gdf3 are known to become DNA methylated in neurons (Mohn et al., 2008). As shown in Figure S4D, Fbxl10 is enriched at all the promoters in ESCs but is displaced from methylated promoters when differentiated to neurons. The reduced binding levels are not due to a decrease in Fbxl10 expression (Figure S4C), and our results therefore support the notion that DNA methylation status modulates binding of Fbxl10 to DNA.
+Consistent with the previously reported histone demethylase activity (He et al., 2008), Fbxl10 enrichment sites coincide with low levels of H3K36me2 on the tested genes (Figure S5A). However, Fbxl10 depletion does not significantly affect H3K36me2, neither at the global level nor at the specific target loci (Figures S5A and S5B). These results suggest that mechanisms in addition to Fbxl10 occupancy regulate H3K36me2 status on CpG islands.
+Fbxl10 Colocalizes with Ring1B and H2AK119ub1 on PcG Target Genes but Binds Also to Actively Transcribed Genes
+To investigate chromatin profiles that flank TSSs of Fbxl10-bound genes besides H3K36me2, we performed Ring1B ChIP-seq (Figure S6A). We also compared Fbxl10 binding to published ChIP-seq data for H2AK119ub1 (Brookes et al., 2012), H3K27me3 (Lienert et al., 2011a), H3K4me3 (Schmitz et al., 2011), H3K36me3 (Marson et al., 2008), and RNA polymerase II (RNA pol II) (Lienert et al., 2011b). We found that H3K4me3 is positively correlated with Fbxl10 binding sites (Figures 4A–4C; Figure S5D), with 97% of all Fbxl10 target genes overlapping with H3K4me3 peaks (Figure 4A, Figure S5C, and Table S2). This is also consistent with the fact that unmethylated CpG islands are positively correlated with H3K4me3 (Guenther et al., 2007; Mikkelsen et al., 2007).
+
+Figure 4 Fbxl10 Colocalizes with Ring1B and H2AK119ub1 on PcG Target Genes but Also Binds to Actively Transcribed Genes
+Show full captionFigure viewer
+Further analysis showed that Fbxl10 targets could be categorized into two major groups (Figure 4A). The first group (n = 5,260) was associated with bivalent domains (Figures 4A and 4B; Figure S5C), a chromatin state characterized by the presence of both H3K4me3 and H3K27me3 (Bernstein et al., 2006; Mikkelsen et al., 2007). Almost all PcG target genes were in this group (positive for H3K27me3, Ring1B, and H2AK119ub1) (Figures 4A and 4B). In contrast, the second group (n = 10,659) was associated only with active marks, including H3K4me3 (at a higher level than the bivalent genes), H3K36me3, and high levels of RNA pol II (Figures 4A and 4C; Figure S5C). For example, both Fbxl10 and Ring1B colocalize on the CpG islands of Wnt1, Wnt10b, Fgf3, and Fgf15 with bivalent marks, but only Fbxl10 is enriched on Arf3 and Fgf4 with active marks (Figure 4D). Fbxl10-binding profiles on these two groups of target genes are very similar (Figure 4D and Figure S5D). Given that PcG proteins may gain or lose target genes during ESC differentiation (Mohn et al., 2008), Fbxl10 may preexist on widespread CGI genes in ESCs and recruit Ring1B to new target genes when they should be silenced or ready to be silenced at specific lineages. Furthermore, it is possible that Fbxl10 plays active roles in the actively transcribed genes by interacting with some coactivators. Taken together, these results show that Fbxl10 can associate with both actively transcribed and poised-repressed target genes, which are mostly occupied by PcG proteins. In this study we focus on the role of Fbxl10 in PcG-bound genes.
+Ring1B and Nspc1 Binding Is Affected by Loss of Fbxl10
+For determining whether Fbxl10 is involved in recruiting Ring1B to target genes, Ring1B ChIP-seq was carried out in Fbxl10-depleted ESCs. For controls, Ring1B ChIP-seq in Suz12−/− and Ring1b−/− ESCs was also performed. By analyzing equal numbers of reads from Fbxl10 ChIP-seq in control and Fbxl10-depleted ESCs in Fbxl10 target genes, we found that the enrichment level of Fbxl10 was significantly decreased in Fbxl10-depleted ESCs compared to controls (Figure 5A). Similarly, we compared equal numbers of reads from Ring1B ChIP-seq data in Ring1B target genes. The distribution of peaks around the TSS was similar in all tested cells, and almost none of the Ring1B target genes were found in the Ring1b−/− cells; however, the tag density was lower in the Suz12−/− or Fbxl10-depleted ESCs (Figure 5B). In comparison with control cells, the Ring1B signal density was decreased approximately 50% in Suz12−/− ESCs (Figure 5B). Significant peaks identified by MACS2 also showed that Ring1B binding was independent of PRC2 in many PcG target genes (Figure S6C, peaks on Hoxa loci and the Cdx2 promoter are shown as examples). By comparing the tag counts under each target peak extracted from the ChIP-seq files, we found that around 48% of Ring1B target sites are significantly affected by loss of Suz12 (Figure S6B and Table S4, log2 < −1). This is consistent with previous findings that PRC1 recruitment is dependent on PRC2 (Ku et al., 2008; Leeb et al., 2010). However, H2AK119ub1 levels are only slightly decreased in Suz12−/− ESCs, even though H3K27me3 is completely erased (Figure S6D). These results are in agreement with the findings that the partial loss of Ring1B binding caused by loss of Suz12 expression does not affect H2AK119 monoubiquitylation and that H2AK119ub1 levels are unchanged in Cbx7-depleted cells (Figure 1E).
+
+Figure 5 Fbxl10 Is Required for the Recruitment of Ring1B and Nspc1 and Regulates H2AK119 Ubiquitylation of PcG Target Genes
+Show full captionFigure viewer
+The Ring1B enrichment in Fbxl10-depleted cells also displays a decrease (Figure 5B). Consistent with this, many peaks of Ring1B binding are decreased in Fbxl10-depleted ESCs (Figure 5C). However, different from the effect of Suz12 deletion, the decrease in Ring1B binding in Fbxl10 knockdown ESCs shows an interesting bimodal distribution (Figure S6B). Though only a smaller part of target sites (17%) are significantly affected (log2 < −1), most of target sites are affected in the Fbxl10 shRNA-expressing cells (Table S4). The ChIP-seq results were validated by independent ChIP-qPCR analyses on several target genes (Figure 5D). Moreover, the decrease in Fbxl10 expression also led to a dramatic decrease in Nspc1 binding on the tested genes; however, we did not detect significant differences in the binding of Suz12, H3K27me3, or Cbx7 upon downregulation of Fbxl10 (Figure 5D).
+To further corroborate that Fbxl10 and PRC2 are separately involved in Ring1B recruitment, we tested whether less Ring1B is bound at PcG target genes in Suz12−/− ESCs depleted of Fbxl10. According to ChIP-qPCR analyses, Ring1B enrichment remains unchanged in Suz12−/− ESCs on some PRC2 target genes (e.g., Hoxa10, Cdx2, Foxa2, and Wnt1) but is modestly decreased upon downregulation of Fbxl10 in either WT or Suz12−/− ESCs (Figure S6E).
+H2AK119ub1 Is Decreased as a Result of Fbxl10 Depletion
+Next we studied the effects of Fbxl10 depletion on H2AK119ub1 levels in PcG target genes. Despite the relatively modest reduction in Ring1B binding (Figures 5B and 5D), we observed a significant decrease in H2AK119ub1 levels in Fbxl10-depleted cells, comparable to the complete loss in Ring1b−/− cells (Figure 5E). This suggests that the active E3 ligase complex for H2AK119ub1 is almost completely removed from the Ring1B target sites upon loss of Fbxl10 and that the remaining PRC1 complexes only marginally contribute to H2A monoubiquitylation in ESCs. In contrast, depletion of Fbxl11 has almost no effect on H2AK119ub1 at target genes, and Ring1B binding even appears to be slightly increased (Figure S6F). Taken together, these results demonstrate that Fbxl10 recruits Ring1B and Nspc1 independent of PRC2 and that the PRC1-Fbxl10 complex is responsible for a substantial part of H2A monoubiquitylation in ESCs.
+The CXXC Domain of Fbxl10 Is Required for Its Binding to DNA, for the Recruitment of Ring1B and Nspc1, and for H2AK119 Monoubiquitylation
+To test whether the CXXC domain of Fbxl10 is required for the binding of Fbxl10 to target genes and for the recruitment of Ring1B and Nspc1, we stably expressed WT and ∗CXXC mutant FBXL10 (both resistant to the shRNA) in Fbxl10-depleted ESCs. WT FBXL10, but not ∗CXXC mutant FBXL10, restored normal levels of H2AK119ub1 in Fbxl10-depleted cells (Figure 6A). By using FLAG ChIP, we confirmed that ∗CXXC, unlike WT, fails to bind DNA (Figure 6B). Accordingly, the re-expression of WT, but not ∗CXXC, is able to rescue the binding of Ring1B or Nspc1 and H2AK119ub1 levels in target genes (Figures 6C–6E). In contrast, the Ring1B and Nspc1 binding levels are even lower in the ∗CXXC rescued cells, perhaps because the overexpressed ∗CXXC DNA-binding mutation of FBXL10 titrates them out of chromatin (Figure 6C). Consistent with the fact that ∗CXXC cannot bind DNA, it also fails to demethylate H3K36me2 (Figure 6F). These results provide strong evidence that Fbxl10 recruits an active H2AK119ub1 E3 ligase complex to CpG islands dependent on its CXXC domain.
+
+Figure 6 The CXXC Domain of Fbxl10 Is Required for DNA Binding of the PRC1-Fbxl10 Complex, Whereas the C Terminus Is Required for Reconstitution of the Catalytically Active Complex
+Show full captionFigure viewer
+The C Terminus of Fbxl10 Is Required for PRC1 Binding and H2A Ubiquitylation
+As shown in Figure 2, FBXL10 interacts with PRC1 components through its C terminus. To test how the C terminus of Fbxl10 affects Ring1B recruitment and catalytic activity in vivo, we also expressed FBXL10ΔLRR in the Fbxl10 knockdown cells. Consistent with having the CXXC domain, FBXL10ΔLRR can bind DNA (Figure 6B) but cannot rescue the binding of Ring1B or Nspc1 or H2AK119ub1 levels (Figures 6C–6E). Therefore, the C-terminal Nspc1- and Ring1B-binding region of FBXL10 is essential for the reconstitution of an active PRC1-Fbxl10 complex on PcG target genes.
+Fbxl10 Is Required for Proper ESC Differentiation
+Individual PcG proteins are not required for the proliferation and self-renewal of ESCs but are essential for the ability of ESCs to differentiate (Leeb et al., 2010; Pasini et al., 2007; van der Stoop et al., 2008). To determine the role of Fbxl10 in ESC pluripotency and differentiation, we challenged the Fbxl10-depleted ESCs to undergo differentiation by forming embryoid bodies (EBs) in suspension cultures. Although the Fbxl10-depleted ESCs did not show detectable proliferation defects (Figure S1B) and formed EBs with an efficiency similar to that of control cells (Figure 7A, day 2), the Fbxl10-depleted EBs are denser and lack central cavities compared to control cells (Figure 7A, day 10). These phenotypes are very similar to the ones recently reported for Rybp knockdown ESCs (Tavares et al., 2012), suggesting there could be overlapping functions among the noncanonical PRC1 complexes. We also induced differentiation of ESCs expressing scrambled or Fbxl10 shRNAs in monolayer culture. After 4 days of differentiation, the control cells develop a flat and spread morphology, whereas the Fbxl10-depleted cells still grow in clusters (Figure S7A). The failure of proper differentiation is consistent with the lack of transcriptional activation of lineage marker genes and the inability to fully silence pluripotency genes (Oct4 and Nanog) during differentiation in the same cells (Figures 7B and S7B). Together, these results indicate that Fbxl10 and PcG proteins share common biological functions and demonstrate that Fbxl10 is required for proper differentiation of ESCs.
+
+Figure 7 Fbxl10 Is Required for Proper ESC Differentiation
+Show full captionFigure viewer
+Discussion
+The main findings in this study are the demonstration that Fbxl10 binds the majority of CpG islands in ESCs, that Fbxl10 recruits the PRC1 proteins Ring1B and Nspc1 to DNA, and that Fbxl10 and Nspc1 are required for most H2AK119 monoubiquitylation in ESCs (as illustrated in Figure 7C). Thus, this study provides a mechanism for how PcG proteins are recruited to their target genes and how H2AK119 monoubiquitylation is regulated.
+Recently, the diversity of PRC1 complexes and their potential roles in H2AK119 monoubiquitylation have been characterized (Gao et al., 2012). Six PCGF proteins in mammals exclusively interact with diverse PcG or non-PcG components in each complex. Although the various PRC1 complexes are believed to catalyze H2AK119 monoubiquitylation, the distinct subgroups do not appear to have equal activity. The canonical PRC1 complex represses gene transcription by compacting chromatin, whereas the noncanonical PRC1 complexes play more important roles in H2A ubiquitylation (Gao et al., 2012). Several laboratories have shown that the PRC1 core components, Ring1B and PCGFs, alone can catalyze H2A ubiquitylation in vitro (Buchwald et al., 2006; Elderkin et al., 2007; Wu et al., 2008), but that other components may be required for their proper activity. However, addition of a CBX subunit to the RING1B-PCGF complex does not promote H2A ubiquitylation in vitro, but Drosophila Kdm2 does (Lagarou et al., 2008; Tavares et al., 2012). The different PCGF proteins in the PRC1 complexes may also exert different biological functions by regulating distinct subsets of target genes in specific cell types and/or developmental stages. Mel18 (Pcgf2) and Nspc1 (Pcgf1) are highly expressed in ESCs (Dietrich et al., 2012; Tavares et al., 2012). Mel18 exists in two distinct PRC1 complexes by interacting with either Cbx or Rybp, whereas Nspc1 only forms a noncanonical PRC1 (Gao et al., 2012). According to our findings, PRC1-mediated H2AK119ub1 is dramatically reduced after depletion of Fbxl10 or Nspc1, suggesting that Mel18 cannot exert a function similar to that of Nspc1 in ESCs.
+The function of any protein or complex is determined by its localization, abundance, and activity. The different subunits in each complex may play different roles, thereby fine-tuning the function of the complex. Rybp exists in multiple noncanonical PRC1 complexes, and its loss significantly affects Ring1B stability (abundance); therefore, it is to be expected that downregulation of Rybp leads to a decrease in H2AK119ub1 levels (Tavares et al., 2012). In contrast, Fbxl10 is required for recruitment of Ring1B and Nspc1 to DNA (localization) and, therefore, for the activity of the complex. Importantly, downregulation of Fbxl10 does not affect Ring1B expression and only leads to a slight decrease in Nspc1 expression.
+Although PcG target genes contain CpG islands in mammalian cells and the PRC2 complex is directly recruited to CpG islands (Lynch et al., 2012; Mendenhall et al., 2010), it is unclear how PcGs are recruited to these sites. An attractive possibility is that proteins with specificity for CG-rich sequences recruit the PcG proteins to their target genes. Our results show that Fbxl10 recruits catalytically active PRC1 components (Nspc1-Ring1B) to CpG islands dependent on its CXXC domain. Interestingly, how DNA and histone modifications affect the binding of effector proteins to regulate chromatin function has been intensively investigated. For example, Bartke et al. (2010) used an elegant in vitro nucleosome affinity purification approach combined with SILAC (stable isotope labeling by amino acids in cell culture)-based proteomic analysis to identify proteins regulated by DNA and/or histone methylation. Relevant to this study, they found that DNA methylation, irrespective of the histone methylation status, strongly excludes the recruitment of components of the Fbxl10-containing BCOR complex, but not of other PRC1 complexes (Bartke et al., 2010). This is nicely consistent with our work and further supports the notion that DNA methylation inhibits the binding of Fbxl10 to CpG motifs.
+Fbxl10 and Fbxl11 share conserved domains, including the JmjC and CXXC domains. Consistent with this, we have shown that Fbxl10 binds to CpG islands as Fbxl11 (Blackledge et al., 2010). Interestingly, Fbxl11 does not associate with PcG proteins and its function therefore appears different from that of Fbxl10. However, both proteins catalyze the demethylation of H3K36me2, which is a very abundant modification and is specifically depleted at CpG islands (Blackledge et al., 2010). Although it remains unclear whether H3K36me2 affects PcG binding in vivo, it is tempting to speculate that the demethylase activity of Fbxl10 plays the role of a “fail-safe” mechanism that prevents aberrant dimethylation of H3K36 on CpG islands. H3K36 methylation was recently shown to inhibit PRC2-mediated H3K27 methylation (Yuan et al., 2011), and Fbxl10 could in this way play a role in ensuring that genes associated with H2AK119ub1 are also trimethylated on H3K27.
+In addition to Fbxl10 and Fbxl11, Cfp1/Cxxc1 (Thomson et al., 2010) and Tet1 (Williams et al., 2011; Wu et al., 2011) also bind to most CpG islands in ESCs. The convergence of CpG-binding proteins at CpG islands may cooperatively contribute to the establishment of a specialized chromatin state. Generally, these proteins confer an H3K4me3-positive, an H3K36me2-depleted, and a DNA hypomethylation chromatin status, which in turn may confer an important platform for additional levels of chromatin modifications and transcriptional regulation, as discussed above.
+Up to 70% of mammalian genes are associated with CpG islands, most of which are free from DNA methylation. CpG islands function as important platforms for adopting the diversity of chromatin states. The default state is permissive to either activation or repression (reviewed in Blackledge and Klose, 2011; Deaton and Bird, 2011). According to our genome-wide mapping study, Fbxl10 occupies almost all CGI genes, including both bivalent and active genes. It directly recruits Ring1B to bivalent genes and promotes H2AK119 ubiquitylation, which may restrain paused RNA pol II at the TSS of bivalent genes (Stock et al., 2007). Recent genome-wide mapping in ESCs showed that H2AK119ub1 is more closely associated with bivalent (i.e., H2AK119ub1 with H3K4me3) chromatin states than H3K27me3 (H3K27me3 with H3K4me3) (97% versus 79%) (Brookes et al., 2012). The target genes under these conditions will not be fully expressed or silenced until PcGs are dissociated by specific activators or by gaining DNA methylation. Interestingly, recent results have shown that both Ring1A and Ring1B contribute to H2AK119ub1 in ESCs and that the deletion of the two Ring1 proteins leads to increased expression of target genes and loss of ESC proliferation (Endoh et al., 2012). In our study, downregulation of Fbxl10 in ESCs resulted in a decrease in H2AK119ub1, which was a bit lower than the one observed in Ring1B knockout (KO) ESCs. As for Ring1B KOs, this decrease in H2AK119ub1 does not lead to defects in ESC proliferation and only has a minor effect on the transcription of the genes we tested (Figure S7C). We speculate that other PRC1 complexes, dependent or independent of residual H2AK119ub1, repress these genes. In other words, additional signals besides the partial removal of H2AK119ub1 are most likely required for the transcriptional activation of PcG-regulated genes. Meanwhile, Fbxl10 occupies many non-PcG target genes in ESCs (the second group) that may be targeted by PcG later in differentiated cells. It is interesting to note that PcG recruiter proteins have been shown to display a dual function in activation as well as silencing (Schuettengruber et al., 2009). Thus, it might be important for Fbxl10 to preprogram both groups of genes in ESCs and provide a permissive epigenomic landscape for proper differentiation (Figures 7B and S7B). However, Fbxl10 may also play a broader role in regulating transcription. Taken together, our findings show that the histone demethylase Fbxl10 has an important role in recruiting PRC1 components to CpG islands and in regulating the global levels of H2K119ub1 in ESCs.
